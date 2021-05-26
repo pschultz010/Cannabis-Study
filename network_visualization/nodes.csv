@@ -1,0 +1,3243 @@
+id,label,type,thc,energy
+0,Blue Dream,Hybrid,19.0,72.89
+1,Gelato,Hybrid,17.0,41.58
+2,Sour Diesel,Sativa,19.0,94.11
+3,Wedding Cake,Hybrid,21.0,33.66
+4,GSC,Hybrid,19.0,57.28
+5,Purple Punch,Indica,19.0,6.28
+6,OG Kush,Hybrid,18.0,40.84
+7,Original Glue,Hybrid,20.0,31.03
+8,Jack Herer,Sativa,17.0,96.36
+9,Green Crack,Sativa,17.0,98.36
+10,Granddaddy Purple,Indica,17.0,7.23
+11,White Widow,Hybrid,16.0,80.14
+12,Sherbert,Hybrid,18.0,35.77
+13,Runtz,Hybrid,,82.63
+14,Pineapple Express,Hybrid,17.0,89.75
+15,Zkittlez,Indica,19.0,19.38
+16,Northern Lights,Indica,16.0,12.05
+17,Mimosa,Hybrid,20.0,92.43
+18,Do-Si-Dos,Indica,20.0,7.62
+19,Bubba Kush,Indica,16.0,7.67
+20,Durban Poison,Sativa,17.0,98.82
+21,Forbidden Fruit,Indica,16.0,11.51
+22,Chemdog,Hybrid,19.0,64.65
+23,AK-47,Hybrid,16.0,71.43
+24,Trainwreck,Hybrid,17.0,77.72
+25,Super Lemon Haze,Sativa,18.0,97.69
+26,Amnesia Haze,Sativa,19.0,88.42
+27,Lemon Haze,Sativa,19.0,89.47
+28,Stardawg,Hybrid,20.0,68.58
+29,Cherry Pie,Hybrid,16.0,55.71
+30,Bruce Banner,Hybrid,23.0,77.2
+31,Strawberry Cough,Sativa,17.0,92.0
+32,Blue Cookies,Hybrid,19.0,26.36
+33,Mendo Breath,Indica,19.0,4.59
+34,9 Pound Hammer,Indica,19.0,1.92
+35,Blueberry,Indica,17.0,13.32
+36,Super Silver Haze,Sativa,18.0,96.21
+37,MAC,Hybrid,21.0,50.44
+38,Ice Cream Cake,Indica,23.0,4.42
+39,SFV OG,Hybrid,19.0,57.31
+40,Alien OG,Hybrid,17.0,39.24
+41,Animal Cookies,Hybrid,18.0,27.67
+42,Alaskan Thunder Fuck,Sativa,15.0,94.66
+43,Tangie,Sativa,17.0,95.51
+44,Ghost Train Haze,Sativa,18.0,95.44
+45,Grape Ape,Indica,17.0,8.12
+46,Blue Cheese,Indica,16.0,19.06
+47,Birthday Cake Kush,Hybrid,19.0,17.48
+48,Tahoe OG Kush,Hybrid,18.0,7.36
+49,King Louis XIII,Indica,20.0,2.77
+50,Candyland,Sativa,19.0,88.59
+51,Master Kush,Indica,17.0,17.14
+52,Strawberry Banana,Hybrid,20.0,34.22
+53,Banana Kush,Hybrid,18.0,43.91
+54,Sundae Driver,Hybrid,23.0,48.75
+55,GMO Cookies,Indica,20.0,16.41
+56,Fire OG,Hybrid,19.0,41.03
+57,Purple Kush,Indica,15.0,6.62
+58,Cookies and Cream,Hybrid,21.0,42.05
+59,Headband,Hybrid,19.0,73.22
+60,G13,Indica,18.0,29.61
+61,LA Confidential,Indica,17.0,14.18
+62,Harlequin,Sativa,5.0,64.64
+63,Platinum GSC,Hybrid,17.0,40.37
+64,Maui Wowie,Sativa,18.0,95.73
+65,Platinum OG,Indica,19.0,6.8
+66,Berry White,Indica,17.0,38.78
+67,Purple Haze,Sativa,17.0,86.47
+68,White Fire OG,Hybrid,20.0,80.55
+69,Bubble Gum,Hybrid,17.0,62.12
+70,Cinderella 99,Hybrid,16.0,94.6
+71,Cookies Kush,Indica,18.0,8.57
+72,Zookies,Hybrid,18.0,50.32
+73,Cheese,Hybrid,16.0,34.82
+74,Jet Fuel,Hybrid,18.0,79.07
+75,Mango Kush,Hybrid,19.0,53.51
+76,LSD,Hybrid,16.0,73.91
+77,Lemon OG Kush,Hybrid,20.0,28.98
+78,Grease Monkey,Hybrid,22.0,12.28
+79,Kosher Kush,Indica,20.0,4.06
+80,Critical Kush,Indica,18.0,6.24
+81,Lemon Kush,Hybrid,19.0,69.98
+82,White Rhino,Indica,17.0,23.54
+83,Pink Kush,Hybrid,17.0,11.94
+84,ACDC,Hybrid,14.0,39.67
+85,Slurricane,Indica,18.0,11.64
+86,Gelato #33,Hybrid,18.0,66.28
+87,Ghost OG,Hybrid,20.0,20.74
+88,Thin Mint GSC,Hybrid,19.0,47.44
+89,Blackberry Kush,Indica,16.0,7.09
+90,Wedding Crasher,Hybrid,21.0,64.87
+91,Acapulco Gold,Sativa,18.0,93.79
+92,Superglue,Hybrid,19.0,32.75
+93,Afghan Kush,Indica,17.0,10.72
+94,Golden Goat,Hybrid,18.0,90.48
+95,Khalifa Kush,Hybrid,19.0,65.64
+96,God's Gift,Indica,16.0,12.71
+97,Banana OG,Hybrid,21.0,16.1
+98,Lemon Skunk,Hybrid,19.0,84.72
+99,Chocolope,Sativa,16.0,96.31
+100,Sour Tangie,Sativa,17.0,95.02
+101,Super Sour Diesel,Sativa,19.0,93.02
+102,Platinum Kush,Indica,18.0,11.4
+103,Orange Cookies,Hybrid,18.0,58.68
+104,Purple Urkle,Indica,16.0,3.0
+105,Tangerine Dream,Hybrid,17.0,84.75
+106,Gorilla Cookies,Hybrid,19.0,23.99
+107,Amnesia,Sativa,17.0,74.72
+108,Death Star,Indica,19.0,10.93
+109,Hindu Kush,Indica,18.0,7.38
+110,White Buffalo,Sativa,19.0,91.22
+111,Clementine,Sativa,16.0,95.26
+112,Black Diamond,Indica,17.0,15.73
+113,Larry OG,Hybrid,18.0,43.06
+114,NYC Diesel,Hybrid,18.0,88.12
+115,Silver Haze,Sativa,21.0,86.88
+116,FPOG,Hybrid,17.0,67.57
+117,Blueberry Kush,Indica,17.0,12.44
+118,Blueberry Muffin,Hybrid,17.0,33.2
+119,24k Gold,Hybrid,20.0,47.86
+120,Haze,Sativa,18.0,93.89
+121,Skunk No. 1,Hybrid,,72.38
+122,Critical Mass,Indica,18.0,11.35
+123,Sour OG,Hybrid,20.0,63.76
+124,Venom OG,Hybrid,19.0,14.47
+125,Cannatonic,Hybrid,5.0,28.92
+126,Lemon Cake,Sativa,22.0,86.74
+127,Afghani,Indica,16.0,3.86
+128,True OG,Indica,18.0,12.25
+129,XJ-13,Hybrid,17.0,91.36
+130,Key Lime Pie,Hybrid,18.0,35.95
+131,Paradise Waits,Hybrid,,54.24
+132,Member Berry,Hybrid,,50.2
+133,Jillybean,Hybrid,16.0,93.93
+134,The White,Hybrid,21.0,26.47
+135,Papaya,Indica,15.0,17.82
+136,Tropicana Cookies,Sativa,17.0,91.93
+137,Moby Dick,Sativa,15.0,85.58
+138,Ice Cream,Hybrid,19.0,52.83
+139,Gushers,Hybrid,24.0,
+140,Island Sweet Skunk,Sativa,16.0,96.91
+141,MK Ultra,Indica,18.0,5.56
+142,Kandy Kush,Hybrid,18.0,46.51
+143,Holy Grail Kush,Hybrid,19.0,33.5
+144,Blue Diesel,Hybrid,17.0,59.55
+145,Fruit Punch,Sativa,16.0,93.63
+146,Platinum Bubba Kush,Indica,15.0,10.75
+147,Dutch Treat,Hybrid,19.0,63.64
+148,Dutch Hawaiian,Sativa,17.0,95.03
+149,Lamb's Bread,Sativa,16.0,96.6
+150,Orange Kush,Indica,16.0,16.2
+151,Super Skunk,Indica,15.0,18.85
+152,Agent Orange,Hybrid,15.0,89.47
+153,Chernobyl,Hybrid,18.0,88.9
+154,Watermelon,Indica,,8.31
+155,Grapefruit,Sativa,16.0,97.44
+156,Black Jack,Hybrid,19.0,59.47
+157,Gorilla Grapes,Hybrid,17.0,31.57
+158,Death Bubba,Indica,,4.42
+159,Diamond OG,Indica,18.0,4.79
+160,Gary Payton,Hybrid,,
+161,Sensi Star,Indica,18.0,15.02
+162,Monster Cookies,Indica,19.0,8.15
+163,Cereal Milk,Hybrid,,
+164,Cotton Candy Kush,Hybrid,16.0,47.48
+165,Blackwater,Indica,19.0,3.52
+166,Space Queen,Hybrid,,89.53
+167,Godfather OG,Indica,17.0,5.87
+168,Shishkaberry,Indica,17.0,21.76
+169,Mango,Indica,17.0,21.5
+170,Triangle Kush,Indica,20.0,14.81
+171,Blackberry,Hybrid,16.0,25.29
+172,3 Kings,Hybrid,18.0,55.53
+173,Gelato #41,Hybrid,,
+174,Juicy Fruit,Hybrid,16.0,82.74
+175,Lemon Tree,Hybrid,17.0,50.2
+176,Motorbreath,Hybrid,25.0,55.96
+177,Mr. Nice,Indica,16.0,20.41
+178,Flo,Hybrid,16.0,90.33
+179,Romulan,Indica,16.0,4.69
+180,Rockstar,Indica,17.0,10.87
+181,Pineapple Kush,Hybrid,17.0,66.11
+182,OG #18,Hybrid,21.0,10.09
+183,Lemon Meringue,Sativa,20.0,99.22
+184,Orange Creamsicle,Hybrid,,74.16
+185,Mango Haze,Sativa,18.0,79.11
+186,Obama Kush,Indica,17.0,19.81
+187,Laughing Buddha,Sativa,20.0,98.85
+188,Blueberry Headband,Hybrid,17.0,71.74
+189,Orange Crush,Hybrid,18.0,89.61
+190,Cheese Quake,Hybrid,18.0,43.0
+191,God Bud,Indica,15.0,9.49
+192,Blue Zkittlez,Indica,15.0,10.11
+193,Rainbow,Hybrid,17.0,56.55
+194,Sour Kush,Hybrid,19.0,64.89
+195,White Russian,Hybrid,16.0,78.04
+196,Pineapple,Hybrid,17.0,77.36
+197,Sweet Tooth,Indica,18.0,45.14
+198,White Tahoe Cookies,Indica,22.0,6.63
+199,Northern Hashplant,Indica,,3.71
+200,Purple Trainwreck,Hybrid,16.0,61.73
+201,Dogwalker OG,Hybrid,22.0,22.98
+202,JGR,Indica,18.0,12.98
+203,Lemon Diesel,Hybrid,17.0,83.39
+204,Great White Shark,Sativa,14.0,76.86
+205,OGKB,Hybrid,24.0,3.3
+206,Jungle Cake,Hybrid,24.0,
+207,Pineapple Chunk,Hybrid,17.0,57.06
+208,XXX OG,Indica,19.0,6.85
+209,Purple Diesel,Hybrid,14.0,82.25
+210,Nuken,Indica,21.0,18.12
+211,Jack Frost,Hybrid,,84.56
+212,Charlotte's Web,Sativa,13.0,55.81
+213,Space Bomb,Hybrid,13.0,92.8
+214,Mandarin Cookies,Hybrid,18.0,67.77
+215,Black Domina,Indica,17.0,5.04
+216,Strawberry Kush,Hybrid,14.0,43.42
+217,Star Killer,Indica,22.0,5.86
+218,Remedy,Indica,14.0,11.64
+219,White Runtz,Hybrid,,
+220,Mochi,Hybrid,,9.11
+221,Tutankhamon,Sativa,16.0,98.19
+222,Pennywise,Indica,7.0,15.92
+223,Big Bud,Indica,16.0,9.8
+224,Sugar Cookie,Hybrid,22.0,16.64
+225,UK Cheese,Hybrid,17.0,57.68
+226,California Orange,Hybrid,14.0,76.14
+227,Hash Plant,Indica,16.0,6.19
+228,East Coast Sour Diesel,Sativa,19.0,96.36
+229,Pre-98 Bubba Kush,Indica,15.0,4.62
+230,Power Plant,Sativa,19.0,91.65
+231,Cat Piss,Sativa,18.0,95.64
+232,Cali Kush,Hybrid,,28.63
+233,J1,Hybrid,18.0,96.93
+234,Alien Dawg,Indica,18.0,17.3
+235,London Poundcake,Hybrid,,
+236,Face Off OG,Indica,18.0,6.47
+237,Goji OG,Hybrid,19.0,73.95
+238,Colombian Gold,Sativa,,89.64
+239,Strawberry Shortcake,Indica,,5.13
+240,King's Kush,Indica,21.0,20.17
+241,Deadhead OG,Hybrid,18.0,50.52
+242,Lavender,Indica,17.0,12.02
+243,707 Headband,Hybrid,18.0,74.14
+244,Banana Split,Hybrid,17.0,73.1
+245,Liberty Haze,Hybrid,19.0,75.44
+246,Sour Apple,Hybrid,15.0,28.5
+247,Wookies,Hybrid,20.0,12.91
+248,3X Crazy,Indica,13.0,6.1
+249,Bubblegum Kush,Indica,16.0,17.07
+250,Dream Queen,Hybrid,16.0,73.03
+251,Strawberry Cheesecake,Indica,,31.48
+252,Dolato,Indica,25.0,
+253,Mendocino Purps,Hybrid,12.0,25.64
+254,Hawaiian,Sativa,20.0,85.68
+255,Pink Lemonade,Hybrid,17.0,87.86
+256,Guava Kush,Hybrid,,28.58
+257,Lemonchello 28,Hybrid,,
+258,THC Bomb,Hybrid,18.0,39.84
+259,Chronic,Hybrid,15.0,74.93
+260,Sunset,Indica,,2.8
+261,Red Dragon,Hybrid,17.0,86.16
+262,$100 OG,Hybrid,,96.88
+263,Pink Cookies,Hybrid,20.0,19.38
+264,Purple OG Kush,Indica,16.0,8.42
+265,Candy Jack,Sativa,19.0,97.5
+266,Puck Yeah,Indica,,
+267,White 99,Hybrid,,67.33
+268,Paris OG,Indica,21.0,5.19
+269,Cinex,Sativa,15.0,96.11
+270,Pink Panties,Indica,,4.89
+271,Peyote Cookies,Indica,,12.56
+272,Skywalker Alien,Hybrid,,6.46
+273,God's Green Crack,Hybrid,,77.66
+274,Orange Bud,Hybrid,16.0,90.62
+275,Double Dream,Hybrid,18.0,75.53
+276,Presidential OG,Indica,17.0,3.96
+277,RudeBoi OG,Hybrid,20.0,27.08
+278,Chemdog 4,Hybrid,,35.55
+279,Diablo,Indica,19.0,17.45
+280,Chemdog 91,Hybrid,,56.92
+281,Golden Pineapple,Hybrid,21.0,90.71
+282,Zombie Kush,Indica,13.0,2.41
+283,Black Mamba,Indica,20.0,6.81
+284,Kimbo Kush,Hybrid,18.0,14.33
+285,Strawberry Diesel,Hybrid,16.0,80.42
+286,Bubba OG,Indica,17.0,6.06
+287,Jack the Ripper,Sativa,17.0,97.02
+288,Cherry Diesel,Hybrid,,75.2
+289,Harle-Tsu,Hybrid,10.0,27.35
+290,Jean Guy,Hybrid,,95.98
+291,Blueberry Cookies,Hybrid,15.0,43.23
+292,Purple Candy,Indica,15.0,4.55
+293,Afgoo,Indica,17.0,9.41
+294,Ice,Hybrid,17.0,45.01
+295,Sour Banana Sherbet,Hybrid,20.0,58.37
+296,Grape Stomper,Hybrid,,67.65
+297,Banjo,Hybrid,19.0,55.49
+298,Snowcap,Hybrid,16.0,97.29
+299,Lucky Charms,Hybrid,21.0,68.85
+300,Violator Kush,Indica,16.0,7.94
+301,Black Cherry Soda,Hybrid,18.0,44.15
+302,Vanilla Kush,Indica,18.0,7.45
+303,Yoda OG,Indica,19.0,4.57
+304,Peanut Butter Breath,Hybrid,24.0,
+305,Legend OG,Indica,21.0,2.41
+306,Cherry Kush,Hybrid,19.0,46.28
+307,Sour Cookies,Hybrid,21.0,57.09
+308,Boss OG,Hybrid,19.0,50.47
+309,Sherblato,Hybrid,,
+310,Kali Mist,Sativa,18.0,99.07
+311,Black Widow,Hybrid,,39.04
+312,Royal Highness,Hybrid,16.0,87.21
+313,Sour Tsunami,Hybrid,12.0,20.91
+314,White Cookies,Hybrid,17.0,18.19
+315,Jesus OG,Indica,19.0,85.17
+316,El Chapo OG,Indica,,3.71
+317,Strawberry Switchblade,Hybrid,,
+318,Pineapple Upside Down Cake,Hybrid,,48.97
+319,Sunshine,Sativa,23.0,98.47
+320,Strawberry,Sativa,14.0,85.42
+321,Cookie Dough,Hybrid,18.0,37.38
+322,Phantom Cookies,Hybrid,19.0,67.61
+323,Thai,Sativa,19.0,85.88
+324,OG Chem,Hybrid,21.0,83.64
+325,SFV OG Kush,Indica,19.0,7.85
+326,Hell's OG,Hybrid,22.0,6.81
+327,Apple Jack,Hybrid,,79.26
+328,LA Cake,Hybrid,22.0,
+329,Blue Widow,Hybrid,13.0,47.45
+330,Golden Lemon,Hybrid,22.0,40.9
+331,Purple Gorilla,Hybrid,18.0,16.64
+332,Watermelon Zkittlez,Indica,24.0,
+333,Incredible Hulk,Sativa,,95.78
+334,G13 Haze,Hybrid,,67.91
+335,Headbanger,Hybrid,21.0,72.66
+336,Pure Kush,Indica,17.0,4.53
+337,Tangerine Haze,Hybrid,18.0,95.01
+338,Alien Rock Candy,Hybrid,19.0,14.77
+339,Hawaiian Punch,Sativa,,85.37
+340,Blueberry Cheesecake,Hybrid,18.0,35.89
+341,Purple Chemdawg,Indica,,18.68
+342,Fruit Loops,Hybrid,20.0,32.27
+343,Phantom OG,Indica,18.0,16.39
+344,Blueberry Diesel,Hybrid,16.0,68.02
+345,Purple Hindu Kush,Indica,20.0,2.43
+346,Bruce Banner #3,Hybrid,22.0,81.25
+347,Lemon G,Sativa,19.0,89.02
+348,Hardcore OG,Indica,20.0,7.18
+349,Platinum Purple Kush,Indica,,3.5
+350,Dr. Who,Hybrid,19.0,45.12
+351,White Gold,Hybrid,,42.45
+352,Elmer's Glue,Hybrid,18.0,19.38
+353,Rocket Fuel,Hybrid,,50.89
+354,Snoop Dogg OG,Indica,,19.88
+355,Poison Fruit,Hybrid,,
+356,Grape God,Hybrid,16.0,23.99
+357,Casey Jones,Sativa,,98.18
+358,'98 Aloha White Widow,Hybrid,,0.62
+359,Mob Boss,Hybrid,20.0,74.84
+360,Citrus Sap,Hybrid,18.0,71.6
+361,Blueberry Haze,Hybrid,16.0,77.61
+362,Purple Dragon,Indica,,29.77
+363,King Kong,Hybrid,16.0,32.93
+364,Canna-Tsu,Hybrid,6.0,17.24
+365,Sour Space Candy,Hybrid,16.0,
+366,OG Shark,Hybrid,,35.9
+367,Scooby Snacks,Hybrid,18.0,16.99
+368,Ace of Spades,Indica,16.0,19.9
+369,Herijuana,Indica,20.0,2.86
+370,Blue Magoo,Hybrid,18.0,39.34
+371,Dark Star,Indica,19.0,3.71
+372,Royal Kush,Hybrid,17.0,6.37
+373,Red Congolese,Sativa,,99.13
+374,Mint Chocolate Chip,Hybrid,20.0,41.86
+375,Black D.O.G.,Indica,17.0,1.17
+376,Ayahuasca Purple,Indica,17.0,7.79
+377,Donkey Butter,Indica,18.0,7.49
+378,Raskal OG,Hybrid,17.0,61.34
+379,Larry Bird Kush,Hybrid,,69.3
+380,Lemonhead OG,Hybrid,20.0,55.07
+381,Cherry OG,Hybrid,19.0,50.27
+382,Cheetah Piss,Hybrid,,
+383,Lilac Diesel,Hybrid,,
+384,Cannalope Haze,Sativa,15.0,97.25
+385,Moonshine Haze,Sativa,18.0,93.02
+386,Green Poison,Indica,,9.85
+387,Godzilla Glue,Hybrid,,24.98
+388,Alien Kush,Indica,20.0,28.93
+389,Doc’s OG,Hybrid,17.0,4.58
+390,Red Headed Stranger,Sativa,,95.89
+391,Hawaiian Haze,Sativa,19.0,97.06
+392,The Original Lemonnade,Hybrid,,
+393,Sugar Black Rose,Indica,,12.92
+394,Sour Jack,Sativa,16.0,96.05
+395,Banana Punch,Hybrid,20.0,
+396,Hawaiian Snow,Sativa,19.0,98.65
+397,Lifter,Hybrid,15.0,71.78
+398,Blue Sherbert,Hybrid,,44.97
+399,Blue Haze,Hybrid,16.0,83.02
+400,Quantum Kush,Sativa,19.0,86.48
+401,Bio-Jesus,Hybrid,,6.9
+402,Cherry Bomb,Hybrid,,87.54
+403,Shark Shock,Indica,18.0,17.05
+404,Blueberry OG,Hybrid,16.0,24.51
+405,Raspberry Kush,Indica,17.0,24.84
+406,Vortex,Sativa,15.0,98.35
+407,DJ Short Blueberry,Indica,19.0,23.57
+408,Crescendo RBx1,Hybrid,,
+409,Wappa,Hybrid,,16.55
+410,Willy's Wonder,Indica,18.0,25.45
+411,Cherry AK-47,Hybrid,17.0,64.64
+412,Black Cherry OG,Indica,16.0,18.67
+413,DelaHaze,Sativa,18.0,98.69
+414,Super Jack,Sativa,18.0,97.65
+415,Rollex OG Kush,Indica,17.0,26.72
+416,Big Smooth,Hybrid,20.0,20.37
+417,Zombie OG,Indica,,6.36
+418,Midnight,Hybrid,,47.59
+419,Pink Champagne,Indica,19.0,6.96
+420,Chocolate Mint OG,Hybrid,,
+421,Blissful Wizard,Hybrid,,63.53
+422,CBD Critical Mass,Indica,6.0,12.21
+423,501st OG,Hybrid,22.0,5.79
+424,Abusive OG,Indica,16.0,4.15
+425,Strawberry Lemonade,Sativa,,84.86
+426,Mazar x Blueberry OG,Hybrid,,24.61
+427,Lavender Jones,Hybrid,,21.91
+428,Hippie Crippler,Hybrid,,91.78
+429,Guava Dawg,Hybrid,,
+430,I-95,Hybrid,,68.85
+431,Bacio Gelato,Hybrid,,
+432,Big Buddha Cheese,Hybrid,,56.81
+433,Grape Kush,Hybrid,17.0,18.25
+434,Cream Caramel,Indica,,2.05
+435,Vanilla Frosting,Hybrid,,
+436,Outer Space,Sativa,,98.57
+437,Golden Ticket,Hybrid,18.0,85.46
+438,Critical Plus,Hybrid,18.0,36.81
+439,Huckleberry,Hybrid,17.0,52.99
+440,Peach Cobbler,Hybrid,17.0,
+441,Cookie Monster,Indica,17.0,10.52
+442,Arjan's Strawberry Haze,Sativa,,94.64
+443,Lemon Cookies,Hybrid,21.0,
+444,Crystal Coma,Sativa,,77.87
+445,Chocolate Kush,Indica,,14.6
+446,Tutti Frutti,Hybrid,,89.49
+447,Snoop's Dream,Hybrid,19.0,33.36
+448,Mai Tai Cookies,Hybrid,,75.9
+449,Tangerine Kush,Indica,17.0,31.34
+450,Chemo,Indica,17.0,1.37
+451,Panama Red,Sativa,,95.35
+452,Cherry Wine,Hybrid,15.0,46.19
+453,The Black,Indica,16.0,0.62
+454,Snow White,Hybrid,17.0,39.08
+455,Sojay Haze,Sativa,,97.33
+456,Dosi Punch,Indica,,
+457,Dirty Girl,Sativa,19.0,85.74
+458,Purple Dream,Hybrid,15.0,35.65
+459,Jedi Kush,Indica,18.0,14.73
+460,Chocolate Diesel,Sativa,20.0,97.81
+461,MediHaze,Sativa,,63.85
+462,Blue OG,Hybrid,16.0,39.23
+463,SPK,Sativa,18.0,
+464,Bio-Diesel,Hybrid,19.0,67.47
+465,Black Lime Special Reserve,Indica,18.0,18.49
+466,Gummy Bears,Hybrid,19.0,35.56
+467,Somango,Indica,20.0,13.14
+468,Kosher Tangie,Hybrid,20.0,74.24
+469,Plushberry,Indica,17.0,13.56
+470,Incredible Bulk,Indica,17.0,3.71
+471,Wookie,Hybrid,18.0,61.34
+472,Chiesel,Hybrid,20.0,83.08
+473,Blue Frost,Hybrid,19.0,49.85
+474,Blue God,Indica,,1.62
+475,Duct Tape,Hybrid,21.0,6.33
+476,Pie Hoe,Hybrid,22.0,19.38
+477,Tuna Kush,Indica,,4.63
+478,Berry OG,Hybrid,18.0,13.46
+479,Chocolate Thai,Sativa,16.0,79.96
+480,Champagne Kush,Hybrid,,65.92
+481,Garlic Bud,Indica,,
+482,Silverback Gorilla,Indica,,3.64
+483,Scott's OG,Hybrid,20.0,16.89
+484,Money Maker,Indica,,2.38
+485,Tangerine,Hybrid,14.0,82.77
+486,Melonade,Hybrid,20.0,
+487,Love Potion #1,Sativa,,86.53
+488,Hurricane,Sativa,,95.45
+489,8 Ball Kush,Indica,,37.8
+490,Permafrost,Hybrid,17.0,72.66
+491,Pink Starburst,Hybrid,21.0,71.03
+492,Tangie Biscotti,Hybrid,,46.19
+493,Chocolate Hashberry,Hybrid,16.0,37.38
+494,Sour Grape,Hybrid,19.0,58.32
+495,Dragon's Breath,Hybrid,16.0,87.18
+496,Sweet and Sour Widow,Indica,,10.89
+497,White Berry,Indica,,34.64
+498,Lemon Drop,Hybrid,,78.59
+499,Black Tuna,Hybrid,,7.09
+500,Mandarin Dreams,Hybrid,,19.38
+501,Stardawg Guava,Sativa,,86.47
+502,Strawberry Fields,Indica,17.0,17.12
+503,Melon Gum,Hybrid,,33.29
+504,Ecto Cooler,Hybrid,,64.69
+505,Gucci OG,Hybrid,,68.09
+506,Mars OG,Indica,20.0,10.94
+507,Chiquita Banana,Hybrid,26.0,45.48
+508,Elektra,Hybrid,15.0,
+509,1024,Sativa,,86.68
+510,Allen Wrench,Sativa,18.0,95.6
+511,Suver Haze,Hybrid,15.0,11.64
+512,Blue Mystic,Indica,16.0,40.5
+513,Mother's Milk,Hybrid,20.0,21.64
+514,Lee Roy,Indica,20.0,18.36
+515,Grape Pie,Hybrid,14.0,
+516,Space Cake,Hybrid,18.0,
+517,Peaches and Cream,Hybrid,,71.52
+518,Aurora Indica,Indica,15.0,1.4
+519,Pineapple OG,Sativa,17.0,84.52
+520,Race Fuel OG,Hybrid,,64.25
+521,Goo,Indica,16.0,6.64
+522,Citrus Kush,Hybrid,,36.83
+523,Apple Kush,Hybrid,20.0,6.4
+524,Mazar I Sharif,Indica,,8.87
+525,Cherry Cookies,Hybrid,17.0,86.13
+526,Rainmaker,Hybrid,19.0,
+527,Sour Patch Kiss,Hybrid,15.0,89.08
+528,Kushberry,Indica,,21.34
+529,Nebula,Hybrid,,92.94
+530,Kryptonite,Indica,16.0,13.77
+531,Inzane In The Membrane,Sativa,24.0,94.71
+532,Gobbstopper,Indica,,0.62
+533,Space Candy,Hybrid,17.0,71.99
+534,Blue Diamond,Indica,19.0,22.95
+535,Guava Cake,Hybrid,,
+536,Matanuska Thunder Fuck,Sativa,18.0,76.59
+537,Skunk Ape,Indica,,
+538,Mag Landrace,Indica,,2.5
+539,Critical Haze,Hybrid,,40.69
+540,Afgooey,Indica,16.0,13.07
+541,Purple Panty Dropper,Indica,20.0,15.11
+542,Super Blue Dream,Hybrid,18.0,79.11
+543,Captain's Cake,Hybrid,,25.64
+544,Ringo's Gift,Hybrid,12.0,45.05
+545,Purple Monkey Balls,Indica,18.0,15.11
+546,Grape Soda,Hybrid,17.0,0.82
+547,Dancehall,Hybrid,,71.32
+548,Bakerstreet,Indica,,3.3
+549,Darth Vader OG,Indica,,1.9
+550,Grape Jelly,Hybrid,,91.18
+551,3 Bears OG,Indica,,0.66
+552,Pine Tar Kush,Indica,23.0,21.52
+553,Lodi Dodi,Hybrid,,90.75
+554,Silver Bubble,Hybrid,,61.34
+555,Blue Hawaiian,Hybrid,17.0,75.38
+556,Strawberry OG,Hybrid,19.0,55.49
+557,Superman OG,Indica,,4.34
+558,Blueberry Yum Yum,Hybrid,,56.94
+559,Dank Commander,Hybrid,,
+560,Fortune Cookies,Hybrid,17.0,51.02
+561,Mother of Berries,Indica,,3.33
+562,Pakistani Chitral Kush,Indica,,2.63
+563,Lemonberry,Hybrid,14.0,61.34
+564,Starfighter,Hybrid,,35.33
+565,Skunkberry,Hybrid,,33.17
+566,Orange Sherbert,Hybrid,18.0,
+567,Lemon Jack,Sativa,17.0,97.88
+568,New Glue,Hybrid,,14.36
+569,Critical Jack,Hybrid,16.0,89.6
+570,Neville's Haze,Sativa,,96.07
+571,Jungle Juice,Hybrid,,
+572,Silver Kush,Sativa,,75.4
+573,Whitewalker OG,Indica,20.0,8.7
+574,Acai Berry Gelato,Sativa,,
+575,Memory Loss,Sativa,20.0,89.9
+576,Green Goblin,Sativa,,91.84
+577,Lemon Garlic OG,Hybrid,6.0,
+578,Death Star OG,Indica,23.0,8.28
+579,Black Triangle,Hybrid,,43.54
+580,Honey Bananas,Hybrid,19.0,61.34
+581,Pure Power Plant,Hybrid,,92.51
+582,Shiva Skunk,Indica,,21.77
+583,Lime Skunk,Sativa,19.0,96.02
+584,Alien Bubba,Indica,,3.38
+585,Bay 11,Sativa,,91.54
+586,Buddha's Sister,Indica,,21.39
+587,Candy Cane,Indica,20.0,4.58
+588,Wonder Woman,Hybrid,15.0,79.73
+589,Citral Glue,Hybrid,,56.37
+590,22,Hybrid,18.0,90.41
+591,Pie Face OG,Hybrid,18.0,35.83
+592,Night Terror OG,Indica,19.0,7.35
+593,OG Skunk,Hybrid,,64.01
+594,Crunch Berry Kush,Hybrid,,6.56
+595,Cold Creek Kush,Hybrid,,51.65
+596,AK-48,Hybrid,15.0,73.07
+597,Orange Cream,Hybrid,18.0,
+598,Mandarin Sunset,Indica,14.0,18.04
+599,Double Tangie Banana,Hybrid,18.0,83.92
+600,Green Love Potion,Indica,,41.86
+601,Frosty,Indica,,36.44
+602,Blue Moon Rocks,Hybrid,,40.28
+603,Extreme Cream,Indica,20.0,10.69
+604,African,Sativa,,87.06
+605,Gorilla Blue,Hybrid,21.0,
+606,Kashmir Kush,Indica,,9.56
+607,Pineapple Trainwreck,Hybrid,17.0,82.87
+608,White OG,Indica,19.0,16.64
+609,Blueberry Pie,Hybrid,,45.1
+610,Grandpa’s Breath,Indica,18.0,5.99
+611,Duke Nukem,Hybrid,,86.41
+612,Alaska,Sativa,,86.68
+613,Willie Nelson,Sativa,,98.01
+614,Sage N Sour,Sativa,17.0,96.94
+615,El Jefe,Indica,,5.79
+616,Sour Lemon OG,Hybrid,,80.12
+617,Rockstar Kush,Indica,,2.8
+618,Monster OG,Hybrid,,24.22
+619,The Hog,Indica,,6.05
+620,Jack Flash,Hybrid,19.0,92.72
+621,Grapefruit Kush,Hybrid,,68.42
+622,Snowball,Hybrid,23.0,
+623,Josh D OG,Indica,,
+624,Orange Haze,Hybrid,19.0,92.13
+625,Lemon Thai,Sativa,,93.56
+626,Afghan Skunk,Indica,,7.49
+627,Blue Kush,Hybrid,16.0,68.85
+628,Purple Berry,Indica,16.0,5.51
+629,Jelly Breath,Hybrid,,
+630,Cornbread,Indica,,2.35
+631,Mataro Blue,Indica,,13.69
+632,Exodus Cheese,Hybrid,,59.64
+633,Orange Juice,Hybrid,18.0,64.25
+634,Katsu Bubba Kush,Indica,,4.02
+635,Blue Dragon,Hybrid,,71.7
+636,Jamaican,Sativa,14.0,81.83
+637,Sirius Black,Indica,,24.41
+638,White Fire 43,Indica,19.0,0.89
+639,Sunshine Daydream,Indica,21.0,9.56
+640,Mango Tango,Hybrid,17.0,53.39
+641,Bordello,Hybrid,,23.96
+642,Cannalope Kush,Hybrid,16.0,88.75
+643,Power Kush,Indica,,12.67
+644,LA Kush,Hybrid,,58.83
+645,LA Woman,Hybrid,18.0,39.08
+646,Pineapple Haze,Sativa,,87.54
+647,Cookie Wreck,Hybrid,,45.29
+648,Sour Joker,Sativa,,97.64
+649,Sour Dubble,Hybrid,,75.9
+650,Pink Panther,Hybrid,,53.57
+651,Northern Lights #5,Indica,19.0,49.87
+652,Recon,Indica,,17.06
+653,Pot of Gold,Indica,,32.65
+654,Tres Dawg,Hybrid,,43.85
+655,Captain America OG,Hybrid,,
+656,Master OG,Indica,19.0,6.49
+657,Kong,Hybrid,,12.74
+658,Purple AK-47,Hybrid,,10.52
+659,Alien Rift,Indica,21.0,23.51
+660,Orange Diesel,Hybrid,,85.29
+661,Banana Cream OG,Hybrid,19.0,7.49
+662,Slimer OG,Hybrid,20.0,25.64
+663,Gilz Nilz,Hybrid,13.0,
+664,The Lime,Hybrid,,
+665,Galactic Jack,Sativa,,95.38
+666,Harlequin GDP,Hybrid,,19.38
+667,Marmalade,Hybrid,17.0,53.39
+668,Purple Sour Diesel,Hybrid,16.0,51.94
+669,Lost Coast OG,Hybrid,19.0,59.94
+670,Lemon Sativa,Sativa,,88.8
+671,Tahoe Alien,Hybrid,,32.69
+672,Guava Gelato,Hybrid,,55.96
+673,Chunky Diesel,Hybrid,,90.41
+674,Shoreline,Hybrid,,79.39
+675,Special Sauce,Hybrid,13.0,
+676,Alpha Blue,Sativa,,95.68
+677,Ether,Indica,,
+678,Jamaican Dream,Sativa,,93.77
+679,Rozé,Hybrid,,
+680,Ogre,Hybrid,20.0,12.48
+681,Ninja Fruit,Hybrid,18.0,91.75
+682,Purple Afghani,Indica,18.0,5.13
+683,Gas Mask,Indica,,3.3
+684,Purple Passion,Indica,,10.13
+685,Grape Inferno,Indica,,4.71
+686,Glass Slipper,Hybrid,,88.15
+687,Chocolate Fondue,Sativa,20.0,92.51
+688,Nightmare Cookies,Hybrid,20.0,36.88
+689,Bay Dream,Sativa,18.0,76.16
+690,Hawaiian Cookies,Hybrid,,43.15
+691,Euforia,Sativa,,98.4
+692,Honey Boo Boo,Indica,,12.02
+693,Julius Caesar,Hybrid,,76.44
+694,Blueberry Skunk,Indica,,26.25
+695,Lucid Dream,Hybrid,,94.43
+696,SinMint Cookies,Hybrid,23.0,25.42
+697,White Dawg,Hybrid,,59.08
+698,SAGE,Hybrid,16.0,82.73
+699,Jenny Kush,Hybrid,,63.57
+700,Pinkman Goo,Indica,,
+701,Maui,Sativa,19.0,85.22
+702,10th Planet,Hybrid,,
+703,Butter OG,Indica,,0.77
+704,Mazar x Blueberry,Hybrid,,22.28
+705,Cactus,Indica,21.0,33.02
+706,Sour Amnesia,Sativa,,96.1
+707,LA Chocolat,Hybrid,,10.72
+708,Apollo 13,Hybrid,19.0,97.59
+709,Purple Animal Cookies,Hybrid,18.0,
+710,Purple Thai,Sativa,,79.56
+711,Acid Dough,Sativa,,90.75
+712,Blue Knight,Indica,,9.26
+713,Purple Skunk,Hybrid,,64.61
+714,Yeti OG,Indica,20.0,3.06
+715,Martian Candy,Hybrid,16.0,23.32
+716,Irene OG,Hybrid,,53.39
+717,Bubba's Gift,Indica,14.0,5.24
+718,Purple Raine,Hybrid,18.0,51.65
+719,Gorilla Breath,Hybrid,20.0,
+720,Cherry Limeade,Hybrid,,61.34
+721,Chem D.O.G.,Indica,,
+722,Strawberry Amnesia,Sativa,,70.69
+723,Green Dream,Hybrid,,94.68
+724,Citrus Punch,Sativa,,
+725,Green Ribbon,Hybrid,17.0,96.72
+726,13 Dawgs,Hybrid,,
+727,Tyson,Indica,,1.23
+728,White Gorilla,Hybrid,19.0,30.21
+729,Querkle,Indica,17.0,20.48
+730,Sunny D,Hybrid,18.0,
+731,Jah Goo,Indica,15.0,2.19
+732,Blueberry Blast,Sativa,,99.38
+733,Predator Pink,Hybrid,,7.49
+734,Black Cherry Pie,Hybrid,15.0,30.52
+735,Lime Sorbet,Indica,,0.62
+736,CBD Shark,Indica,,7.01
+737,Trinity,Sativa,17.0,96.5
+738,AK-49,Sativa,,
+739,Game Changer,Hybrid,15.0,42.79
+740,Tangie Cookies,Sativa,18.0,97.2
+741,Sunshine #4,Hybrid,,84.17
+742,Salmon River OG,Indica,17.0,3.59
+743,5th Element,Indica,,13.06
+744,Sweeties,Hybrid,21.0,
+745,Wonka Bars,Hybrid,,
+746,Tangilope,Sativa,15.0,98.98
+747,Super Kush,Indica,20.0,32.47
+748,Granola Funk,Hybrid,25.0,
+749,Ancient OG,Indica,19.0,4.83
+750,Grapefruit Diesel,Hybrid,12.0,69.14
+751,Blood Orange Kush,Indica,17.0,66.52
+752,Pink Death Star,Indica,,5.66
+753,Hellfire OG,Hybrid,21.0,50.32
+754,Red Diesel,Hybrid,,68.45
+755,Lemon Ice,Sativa,18.0,98.21
+756,Burmese Kush,Hybrid,17.0,34.95
+757,Biker Kush,Indica,17.0,
+758,Raspberry Cough,Sativa,,97.32
+759,Napalm OG,Hybrid,,
+760,Dr. Grinspoon,Sativa,,99.38
+761,Ice Cream Man,Indica,20.0,
+762,Mango Sapphire,Hybrid,,
+763,Head Cheese,Hybrid,21.0,59.11
+764,White Walker Kush,Hybrid,19.0,68.45
+765,Kosher Dawg,Hybrid,19.0,
+766,Pink Bubba,Indica,,2.74
+767,Rose Bud,Indica,,36.25
+768,Gooberry,Indica,,4.48
+769,Koolato,Hybrid,,
+770,Sister Glue,Hybrid,,22.2
+771,Gelatti,Hybrid,,
+772,Church OG,Indica,,9.63
+773,Tiger's Milk,Indica,,17.8
+774,Tropic Thunder,Hybrid,,
+775,Night Nurse,Indica,15.0,0.75
+776,Gorilla Snacks,Hybrid,,
+777,Critical Bilbo,Hybrid,,7.49
+778,Ultra Sour,Sativa,,92.51
+779,Buddha Haze,Sativa,,99.01
+780,Flo OG,Indica,,6.4
+781,OG Lime Killer,Hybrid,,
+782,Purple Crack,Hybrid,,56.17
+783,Walter White,Hybrid,20.0,73.54
+784,Ice Wreck,Hybrid,,47.43
+785,Pineapple Punch,Sativa,,95.05
+786,Crown Royale,Indica,13.0,8.87
+787,The Vision,Hybrid,,
+788,Fucking Incredible,Indica,,17.55
+789,OG Cheese,Hybrid,14.0,34.35
+790,White Nightmare,Sativa,,95.26
+791,Malawi,Sativa,,98.18
+792,Burkle,Indica,,4.96
+793,CBD Critical Cure,Indica,6.0,13.22
+794,Lemon Pie,Sativa,,98.01
+795,Dairy Queen,Hybrid,17.0,72.29
+796,Dog Shit,Hybrid,,73.47
+797,Citrix,Hybrid,,92.89
+798,Chemdog Sour Diesel,Hybrid,,86.62
+799,Purple Cream,Indica,11.0,11.64
+800,Queen Mother Goji,Indica,,52.31
+801,Humboldt,Hybrid,18.0,32.55
+802,Montana Silvertip,Hybrid,20.0,55.26
+803,Super Sour OG,Hybrid,22.0,57.91
+804,Purple Tangie,Sativa,12.0,94.91
+805,Nepalese,Sativa,20.0,70.37
+806,BC Big Bud,Hybrid,,29.52
+807,Master Yoda,Hybrid,,25.11
+808,Tillamook Strawberry,Hybrid,17.0,74.93
+809,Charlie Sheen,Hybrid,,48.69
+810,OG Diesel Kush,Hybrid,,55.85
+811,Sugar Punch,Hybrid,,93.89
+812,Willy Wonka,Sativa,,87.25
+813,Blue Magic,Sativa,,97.06
+814,Blackberry Fire,Hybrid,17.0,
+815,Moose and Lobsta,Sativa,22.0,97.54
+816,Grandma’s Sugar Cookies,Indica,18.0,24.22
+817,Chocolate OG,Indica,,4.79
+818,Pineapple Skunk,Hybrid,18.0,32.96
+819,Red Haze,Sativa,,95.51
+820,Dream Lotus,Hybrid,,74.93
+821,White Lightning,Hybrid,18.0,49.37
+822,Area 51,Hybrid,,69.46
+823,Grape Diamonds,Hybrid,,
+824,Popcorn Kush,Indica,,4.71
+825,LA OG,Indica,21.0,16.75
+826,The Sauce,Hybrid,20.0,86.55
+827,Banana Bread,Hybrid,20.0,
+828,Haze Berry,Sativa,20.0,92.51
+829,818 OG,Indica,,8.44
+830,Albert Walker,Hybrid,18.0,14.73
+831,Alice in Wonderland,Sativa,,86.23
+832,Pineapple Diesel,Hybrid,17.0,98.36
+833,Lemon Alien Dawg,Hybrid,18.0,51.16
+834,Afghan Haze,Hybrid,,47.91
+835,Sugar Kush,Indica,11.0,1.06
+836,Lemon OG Haze,Hybrid,,71.03
+837,MC1,Hybrid,,
+838,Sour Alien,Hybrid,21.0,31.8
+839,Killer Queen,Hybrid,17.0,89.35
+840,Swazi Gold,Sativa,,58.16
+841,Congo,Sativa,,99.38
+842,Purple Bubba,Indica,,2.51
+843,Purple Cheese,Hybrid,,14.77
+844,Dragon OG,Hybrid,20.0,66.14
+845,Haoma Mist,Hybrid,,
+846,Blue Rhino,Hybrid,17.0,26.38
+847,Sour Dream,Hybrid,,95.89
+848,Dragon Fruit,Hybrid,20.0,
+849,Where's My Bike,Hybrid,,
+850,Future,Hybrid,19.0,40.8
+851,Bubblicious,Hybrid,15.0,27.85
+852,Romulan Grapefruit,Hybrid,18.0,44.28
+853,High School Sweetheart,Hybrid,,
+854,Bananas,Hybrid,21.0,19.38
+855,Sour Power,Hybrid,20.0,86.47
+856,Godzilla,Indica,21.0,21.24
+857,Purple Sunset,Indica,,
+858,C4,Hybrid,19.0,46.99
+859,Road Dawg,Hybrid,,
+860,Rare Dankness #1,Indica,,2.41
+861,Cataract Kush,Hybrid,19.0,15.32
+862,303 OG,Indica,,19.98
+863,Double OG,Indica,15.0,3.3
+864,Sour Haze,Sativa,,80.84
+865,Grandpa’s Stash,Hybrid,,
+866,The Wife,Hybrid,,28.89
+867,Sweet Kush,Hybrid,17.0,51.88
+868,Acid,Hybrid,,89.55
+869,Golden State Banana,Indica,,12.47
+870,Green Kush,Indica,,58.62
+871,Forum Cut Cookies,Hybrid,21.0,96.85
+872,Blueberry AK,Hybrid,18.0,
+873,Amherst Sour Diesel,Hybrid,16.0,
+874,Critical Plus 2.0,Indica,,
+875,Grape Cookies,Indica,18.0,15.67
+876,Northern Lights #5 x Haze,Sativa,,91.06
+877,Elephant,Sativa,,92.51
+878,Locomotion,Indica,18.0,12.96
+879,Alaskan Ice,Sativa,,82.55
+880,Cali Gold,Hybrid,,48.97
+881,Asian Fantasy,Sativa,,88.69
+882,Viper,Sativa,,99.38
+883,Sour Kosher,Hybrid,18.0,
+884,Yumboldt,Indica,,5.3
+885,Versace,Hybrid,,57.91
+886,Orange Dream,Hybrid,16.0,78.77
+887,Bootylicious,Hybrid,,
+888,Loud Dream,Hybrid,,85.46
+889,Dynamite,Indica,,20.0
+890,Critical Purple Kush,Hybrid,,
+891,Oregon Diesel,Indica,16.0,20.53
+892,Devil Fruit,Indica,,12.47
+893,The Blood,Sativa,,
+894,Violet Delight,Hybrid,20.0,45.8
+895,Caramel Candy Kush,Hybrid,,42.62
+896,The Doctor,Indica,,11.64
+897,Jupiter OG,Indica,,7.77
+898,Ace Killer OG,Indica,,2.19
+899,Chocolate Chunk,Indica,18.0,7.84
+900,Super Snow Dog,Sativa,,93.64
+901,Spiked Punch,Hybrid,,
+902,Petrolia Headstash,Indica,,
+903,Zour Apples,Hybrid,,
+904,Papa's OG,Indica,,16.72
+905,Cuvee,Indica,16.0,36.25
+906,Sunburn,Sativa,,96.0
+907,Schrom,Sativa,,85.46
+908,Mexican,Sativa,,38.67
+909,Jack Haze,Hybrid,17.0,99.02
+910,Rare Darkness,Indica,,4.7
+911,Lowryder,Hybrid,,48.16
+912,Zsweet Insanity,Hybrid,,
+913,Sugar Plum Sunset,Indica,,
+914,Dosi Face,Hybrid,,
+915,CBD Kush,Hybrid,8.0,11.28
+916,Blue Goo,Hybrid,,79.01
+917,Marionberry Kush,Hybrid,17.0,38.14
+918,Purple Power,Sativa,,61.34
+919,White Urkle,Hybrid,20.0,5.61
+920,Alien Technology,Indica,,
+921,Dutch Haze,Sativa,,
+922,Purple Alien OG,Hybrid,,18.82
+923,OG Poison,Hybrid,,4.58
+924,Sharksbreath,Hybrid,,86.86
+925,Rug Burn OG,Hybrid,,43.21
+926,Grapefruit Haze,Sativa,,86.82
+927,Lemon Sorbet #3,Hybrid,,
+928,Bob Saget,Sativa,,96.85
+929,Soul Shine,Hybrid,,
+930,Chem's Sister,Sativa,,79.79
+931,Blue Crack,Hybrid,18.0,80.34
+932,Chronic Thunder,Indica,17.0,1.82
+933,Vader OG,Indica,,
+934,Nicole Kush,Indica,,
+935,Santa Maria,Sativa,,85.55
+936,Buddha Tahoe,Indica,16.0,19.92
+937,Sour Cheese,Hybrid,,82.5
+938,Candy Apple,Hybrid,16.0,
+939,Durban Cookies,Sativa,17.0,89.9
+940,Pheno 51,Hybrid,,8.61
+941,Astroboy,Sativa,,98.25
+942,Moonbeam,Indica,,13.46
+943,Angel OG,Indica,,
+944,Hawaiian Dream,Sativa,,83.22
+945,Bear Dance,Hybrid,,86.82
+946,Purple Princess,Hybrid,,59.66
+947,Blue Dream CBD,Hybrid,,
+948,Emerald OG,Indica,16.0,9.26
+949,Tangerine Power,Hybrid,17.0,60.1
+950,Snow Monster,Indica,,5.61
+951,Ray Charles,Indica,,2.1
+952,Tropical Tang,Hybrid,,90.41
+953,Green Queen,Hybrid,17.0,91.08
+954,Mexican Sativa,Sativa,,90.84
+955,Georgia Pine,Hybrid,,
+956,3D CBD,Sativa,,17.41
+957,Dreamcatcher,Hybrid,,36.25
+958,Gunslinger,Hybrid,,
+959,Skunk Haze,Hybrid,17.0,36.56
+960,SnowLAnd,Hybrid,19.0,28.24
+961,Boss Hogg,Hybrid,14.0,43.01
+962,Bugatti OG,Hybrid,,17.84
+963,Pineapple Jack,Sativa,15.0,86.53
+964,Electric Kool Aid,Hybrid,,82.34
+965,Ghost Rider OG,Indica,,
+966,Cookies and Dream,Hybrid,,91.62
+967,Batman OG,Indica,,
+968,Cherry Cream Pie,Hybrid,,5.79
+969,Banana Hammock R1,Indica,,1.6
+970,Black Russian,Indica,,2.51
+971,Sour Headband,Hybrid,21.0,82.81
+972,Citrus Sunshine Haze,Hybrid,,83.64
+973,Sour Bubble,Indica,,11.23
+974,Black Diesel,Sativa,,93.39
+975,Bubbleberry,Hybrid,16.0,79.04
+976,Big Bang,Indica,,14.44
+977,Frosted Cherry Cookies,Hybrid,21.0,
+978,Oregon Lemons,Hybrid,19.0,
+979,M-39,Indica,,10.89
+980,Sweet Cheese,Sativa,,81.78
+981,Hashberry,Indica,,13.14
+982,Sour Pebbles,Sativa,,96.34
+983,Alpha OG,Hybrid,,14.89
+984,Chem Cookies,Hybrid,21.0,
+985,Shangri-La,Hybrid,17.0,76.44
+986,Snow Lotus,Hybrid,,51.65
+987,Super Lemon OG,Hybrid,19.0,38.67
+988,Argyle,Indica,,10.25
+989,Blue Velvet,Hybrid,,36.69
+990,Chem Scout,Indica,22.0,15.97
+991,Funky Monkey,Indica,,53.39
+992,Triple Cheese,Indica,,6.56
+993,Gorilla Girl,Hybrid,,
+994,White Fire Alien OG,Hybrid,20.0,34.8
+995,Chemmy Jones,Hybrid,,92.14
+996,Appalachia,Hybrid,,83.64
+997,Sour Blueberry,Hybrid,,
+998,Green Haze,Sativa,,92.51
+999,Timewreck,Sativa,18.0,93.94
+1000,Narnia,Sativa,,97.2
+1001,Madman OG,Hybrid,20.0,20.47
+1002,Lemongrass,Hybrid,,
+1003,Colombian Mojito,Sativa,,
+1004,Legend of Nigeria,Sativa,,
+1005,Bay Platinum Cookies,Sativa,19.0,
+1006,Afghan Diesel,Hybrid,,68.85
+1007,Merlot OG,Indica,,
+1008,Grape Krush,Indica,,21.05
+1009,Electric Lemon G,Sativa,,80.26
+1010,Cracker Jack,Sativa,20.0,99.38
+1011,Purple Dog Shit,Hybrid,,52.31
+1012,Caramelo,Sativa,17.0,71.03
+1013,Velvet Bud,Sativa,,
+1014,Gumbo,Indica,23.0,1.6
+1015,Durga Mata,Indica,,
+1016,Red Cherry Berry,Hybrid,18.0,15.67
+1017,Sour Candy,Hybrid,17.0,92.51
+1018,Warlock,Hybrid,15.0,30.95
+1019,Sorbet,Hybrid,,
+1020,Sin Valley OG,Hybrid,,13.69
+1021,Magic Melon,Hybrid,,
+1022,Pura Vida,Hybrid,,
+1023,Ghost of Lee Roy,Hybrid,,
+1024,Tropicali,Hybrid,,96.7
+1025,Crown OG,Indica,21.0,16.06
+1026,Red Velvet Pie,Hybrid,,
+1027,Aliens On Moonshine,Indica,4.0,
+1028,Irish Cream,Indica,,
+1029,King Cake,Hybrid,,
+1030,Wild Thailand,Sativa,,99.38
+1031,Miss U.S.A.,Hybrid,,
+1032,El Chapo,Hybrid,,
+1033,The Guice,Hybrid,18.0,
+1034,Green Candy,Sativa,16.0,90.93
+1035,Tina,Indica,18.0,
+1036,Cherry Kola,Indica,15.0,33.7
+1037,Blue Moonshine,Indica,17.0,18.12
+1038,Malawi Gold,Sativa,,
+1039,Sequoia Strawberry,Sativa,21.0,98.75
+1040,Monkey Paw,Hybrid,,68.58
+1041,Balmoral,Hybrid,,68.85
+1042,Frankenstein,Indica,19.0,3.95
+1043,Master Bubba,Indica,,3.81
+1044,Suzy Q,Hybrid,10.0,40.69
+1045,Purple Rhino,Hybrid,,17.84
+1046,CBD Mango Haze,Sativa,4.0,73.7
+1047,Conspiracy Kush,Indica,19.0,7.21
+1048,Primus,Indica,,19.38
+1049,Blue Lights,Indica,16.0,19.38
+1050,Strawberries & Cream,Hybrid,,
+1051,Platinum Huckleberry Cookies,Hybrid,,13.69
+1052,Y Griega,Sativa,,96.56
+1053,Voodoo,Sativa,,88.26
+1054,Blucifer,Sativa,16.0,
+1055,Blue Power,Indica,,26.9
+1056,Trap Star,Indica,22.0,
+1057,Pineapple Fields,Sativa,17.0,92.51
+1058,In The Pines,Sativa,16.0,94.83
+1059,Jamaican Pearl,Sativa,,95.65
+1060,Flowerbomb Kush,Indica,,16.85
+1061,Blueberry Dream,Sativa,,36.69
+1062,Hurkle,Hybrid,19.0,9.82
+1063,White Kush,Indica,,2.51
+1064,Lifesaver,Hybrid,,36.99
+1065,Grandpa Larry OG,Indica,,3.41
+1066,Sapphire Star,Hybrid,,
+1067,Enemy of the State,Indica,,0.82
+1068,Mango Sherbert,Hybrid,,
+1069,Endless Sky,Indica,,12.47
+1070,A-Train,Hybrid,18.0,68.85
+1071,Nova,Indica,,
+1072,Jack's Cleaner,Sativa,,95.26
+1073,Purple Champagne,Sativa,,83.03
+1074,A-Dub,Hybrid,25.0,35.83
+1075,Afghani Bullrider,Indica,18.0,23.09
+1076,Nevil's Wreck,Sativa,,
+1077,Green Lantern,Sativa,19.0,92.51
+1078,Medicine Man,Hybrid,16.0,29.16
+1079,Maple Leaf Indica,Indica,,15.44
+1080,Medusa,Hybrid,15.0,26.54
+1081,Walker Kush,Hybrid,,5.45
+1082,Soul Assassin OG,Hybrid,,28.24
+1083,Mt. Hood Magic,Hybrid,23.0,75.21
+1084,Sweet Dreams,Hybrid,,1.54
+1085,Blue Raspberry Snow Cone,Hybrid,,
+1086,Amnesia OG,Sativa,,
+1087,Critical Widow,Hybrid,,59.0
+1088,Freezeland,Indica,,6.4
+1089,Alien Walker,Hybrid,19.0,36.56
+1090,Dr. Funk,Indica,,27.16
+1091,B-52,Indica,,20.6
+1092,Strawberry Cake,Hybrid,17.0,
+1093,Purple Bud,Indica,,5.51
+1094,Three Blue Kings,Hybrid,,
+1095,Blackberry Cream,Indica,19.0,18.04
+1096,Afternoon Delight,Hybrid,,16.95
+1097,Lambo OG,Hybrid,,8.87
+1098,Blueberry Pancakes,Hybrid,,11.23
+1099,Fruit Crusher,Hybrid,,
+1100,Berry Bomb,Hybrid,16.0,11.64
+1101,Dank Sinatra,Hybrid,,
+1102,Critical Skunk,Hybrid,,
+1103,Purple Widow,Hybrid,,28.79
+1104,Green Dragon,Indica,20.0,18.45
+1105,Rainbow Jones,Indica,,
+1106,Wet Dream,Sativa,,99.09
+1107,Tokyo OG,Hybrid,,24.22
+1108,Pop Rox,Hybrid,,
+1109,Lemon Cheesecake,Hybrid,18.0,
+1110,Himalayan Gold,Hybrid,,71.39
+1111,Extreme OG,Indica,19.0,
+1112,Blue Steel,Indica,,16.95
+1113,K2,Hybrid,,4.0
+1114,Root Beer Kush,Sativa,,77.31
+1115,Critical Cheese,Hybrid,,89.9
+1116,Princess,Sativa,,
+1117,Valley Girl,Hybrid,23.0,69.3
+1118,White Castle,Hybrid,,
+1119,Pez,Indica,,34.35
+1120,Tropicana Punch,Hybrid,24.0,
+1121,Critical Sensi Star,Indica,,4.67
+1122,Blue Alien,Indica,,4.69
+1123,Brandywine,Indica,,6.91
+1124,Atomic,Hybrid,15.0,
+1125,Stephen Hawking Kush,Indica,,10.45
+1126,Banana Diesel,Hybrid,,81.67
+1127,Purple Goo,Indica,15.0,29.52
+1128,Black Cherry Cheesecake,Hybrid,17.0,40.9
+1129,Black Ice,Indica,16.0,1.03
+1130,Deep Chunk,Indica,,
+1131,Silver Surfer,Hybrid,18.0,96.16
+1132,Northern Berry,Indica,,1.63
+1133,Sweet Diesel,Sativa,,85.96
+1134,Green Goddess,Hybrid,,68.45
+1135,Dank Schrader,Indica,,19.38
+1136,Lemon Kush Headband,Hybrid,20.0,
+1137,Corleone Kush,Indica,,11.5
+1138,Laughing Gas,Hybrid,,
+1139,Gigabud,Indica,,7.95
+1140,Moonbow,Hybrid,,
+1141,Afghan Hawaiian,Indica,,
+1142,Cosmic Collision,Sativa,,
+1143,Jack 47,Hybrid,,69.3
+1144,Purple Frost,Hybrid,18.0,
+1145,Woody Kush,Indica,19.0,1.11
+1146,White Diesel,Hybrid,18.0,55.22
+1147,Dark Blue Dream,Hybrid,,80.34
+1148,Atomic Northern Lights,Hybrid,,64.45
+1149,Full Moon,Sativa,,99.38
+1150,La Blanca,Hybrid,,
+1151,Thor's Hammer,Sativa,,99.38
+1152,Clementine Kush,Hybrid,,71.78
+1153,CBD Blue Shark,Hybrid,6.0,20.85
+1154,12 Year OG,Hybrid,,15.67
+1155,Chem Valley Kush,Hybrid,21.0,69.21
+1156,Cowboy Kush,Hybrid,,40.38
+1157,Jelly Roll,Indica,,
+1158,Anesthesia,Indica,,19.38
+1159,One to One,Hybrid,,
+1160,Hog's Breath,Indica,17.0,38.89
+1161,Purple Elephant,Indica,17.0,14.11
+1162,Ingrid,Indica,,0.7
+1163,MILF,Hybrid,,
+1164,Platinum Sour Diesel,Hybrid,,
+1165,Brand X,Indica,,0.62
+1166,Hades OG,Indica,,
+1167,A-10,Indica,,78.86
+1168,Satellite OG,Indica,,34.35
+1169,Sour Sunset,Hybrid,18.0,73.33
+1170,Tangie Dream,Hybrid,19.0,
+1171,Dakini  Kush,Indica,,
+1172,‘88 G13 Hashplant,Hybrid,,
+1173,Early Girl,Indica,20.0,35.83
+1174,Destroyer,Sativa,,
+1175,Lemon Walker OG,Hybrid,,82.97
+1176,Sour Bubba,Indica,,52.88
+1177,Purple Headband,Hybrid,20.0,55.22
+1178,Commerce City Kush,Indica,,3.06
+1179,Earth OG,Hybrid,18.0,39.84
+1180,Tangelo,Hybrid,,
+1181,Purple Wreck,Indica,16.0,27.01
+1182,Trix,Sativa,,
+1183,Purple Voodoo,Hybrid,,55.16
+1184,Lem Chem,Hybrid,,
+1185,Cloud 9,Hybrid,,77.31
+1186,Cadillac Purple,Indica,,2.27
+1187,Saturn OG,Hybrid,18.0,28.24
+1188,Orangutang,Hybrid,,
+1189,Orange Blossom,Hybrid,,52.31
+1190,Godberry,Indica,,5.55
+1191,Ed Rosenthal Super Bud,Hybrid,,79.63
+1192,541 Kush,Hybrid,,
+1193,Pure OG,Indica,19.0,3.57
+1194,PB Soufflé,Hybrid,,
+1195,Diesel Dough,Hybrid,21.0,
+1196,Sweet Skunk,Hybrid,,
+1197,Lemon Banana Sherbet,Hybrid,20.0,
+1198,Casper OG,Indica,,
+1199,False Teeth,Hybrid,21.0,36.25
+1200,Grape Cake,Hybrid,,
+1201,Black Haze,Hybrid,14.0,52.7
+1202,Sour Power OG,Hybrid,,
+1203,Hollyweed,Hybrid,,
+1204,Orange Velvet,Hybrid,,89.08
+1205,Cactus Cooler,Hybrid,,
+1206,White Dream,Hybrid,,93.2
+1207,Nordle,Indica,,16.48
+1208,Purple Star,Indica,18.0,6.56
+1209,Cookie Breath,Hybrid,20.0,66.52
+1210,Mickey Kush,Sativa,18.0,91.75
+1211,Doug's Varin,Sativa,,
+1212,Pakistan Valley Kush,Indica,,
+1213,Snow Bud,Hybrid,,29.42
+1214,Crater Lake,Hybrid,20.0,87.95
+1215,Four Star General,Hybrid,,
+1216,Lemon Bubble,Sativa,,97.39
+1217,White Durban,Sativa,,99.38
+1218,Hollywood OG,Hybrid,,44.97
+1219,Royal Haze,Sativa,,96.16
+1220,OG Wreck,Hybrid,,93.06
+1221,Slazerbeam,Sativa,,92.51
+1222,Qrazy Train,Hybrid,,62.02
+1223,Apollo 11,Hybrid,20.0,98.42
+1224,Magnum,Hybrid,,95.45
+1225,Butterscotch,Indica,,0.62
+1226,Blueberry Space Cake,Indica,,
+1227,Very Berry Haze,Sativa,,93.56
+1228,Black Afghan,Indica,,2.19
+1229,Blue Afghani,Indica,,9.56
+1230,Purple Arrow,Hybrid,18.0,63.43
+1231,Silver Pearl,Hybrid,19.0,92.99
+1232,Ocean View,Sativa,,97.14
+1233,Chocolope Kush,Hybrid,16.0,38.51
+1234,Pandora's Box,Sativa,18.0,92.26
+1235,Critical Hog,Indica,,9.63
+1236,Tahoe Hydro OG,Hybrid,,
+1237,KC 33,Hybrid,,
+1238,Black Raspberry,Hybrid,,
+1239,Forbidden Zkittlez,Hybrid,,
+1240,Cherry Pie Kush,Hybrid,,67.47
+1241,Bubba Cookies,Hybrid,20.0,
+1242,Strawberry Ice,Sativa,18.0,98.45
+1243,Orange Skunk,Hybrid,,44.28
+1244,Milky Way,Indica,,
+1245,Truberry OG,Hybrid,,
+1246,Dance World,Sativa,,77.5
+1247,Martian Mean Green,Hybrid,,85.37
+1248,Deep Sleep,Indica,17.0,0.62
+1249,Blue Fire,Hybrid,16.0,
+1250,OG Sour Diesel,Hybrid,17.0,
+1251,Colorado Chem,Hybrid,,88.69
+1252,White Cheese,Hybrid,,28.89
+1253,Critical Kali Mist,Sativa,,
+1254,Afghan Cow,Sativa,,
+1255,OG 1 Kenobi,Indica,,
+1256,2 Fast 2 Vast,Hybrid,,
+1257,L.A. Sunshine,Hybrid,,
+1258,Truffle Butter,Indica,,
+1259,Hashbar OG,Indica,,
+1260,LA Kookies,Hybrid,20.0,
+1261,Lime Haze,Sativa,,96.37
+1262,Sweet Black Angel,Indica,,3.26
+1263,Star Berry Indica,Indica,,
+1264,Air Jordan OG,Indica,,
+1265,Pink Sunset,Indica,,
+1266,The One,Hybrid,18.0,61.34
+1267,Blockhead,Hybrid,,3.14
+1268,Strawberry Milkshake,Hybrid,,
+1269,Jacky White,Sativa,,81.9
+1270,Sour Cream,Hybrid,21.0,61.34
+1271,Armageddon,Hybrid,,22.98
+1272,Mendo Montage,Hybrid,,
+1273,Santa Sativa,Sativa,,
+1274,Triple Diesel,Sativa,,54.71
+1275,Trophy Wife,Hybrid,,
+1276,Jacky Girl,Hybrid,,
+1277,Kurple Fantasy,Hybrid,,23.32
+1278,Bad Azz Kush,Hybrid,,
+1279,Northern Wreck,Indica,,16.88
+1280,Mike Larry,Hybrid,,
+1281,Ambrosia,Hybrid,17.0,84.47
+1282,Electric Lemonade,Sativa,,
+1283,Gello Gelato,Hybrid,,
+1284,Holland's Hope,Indica,,15.97
+1285,Purple Mr. Nice,Indica,13.0,7.95
+1286,Nightmare OG,Hybrid,,
+1287,Golden Nugget,Hybrid,,95.81
+1288,Gorilla Biscuit,Indica,,2.46
+1289,Locktite,Hybrid,18.0,47.1
+1290,Jack Skellington,Sativa,16.0,89.74
+1291,91 Krypt,Indica,,4.2
+1292,Bodega Bubblegum,Hybrid,,
+1293,Redwood Kush,Indica,,18.53
+1294,Tora Bora,Indica,,3.2
+1295,Ultimate Trainwreck,Sativa,,70.37
+1296,Black Label Kush,Indica,,7.49
+1297,Kilimanjaro,Sativa,,98.55
+1298,Super Cheese,Indica,,26.32
+1299,Blue Sky,Hybrid,,24.84
+1300,Nina Limone,Sativa,,
+1301,Snowman,Hybrid,20.0,
+1302,Sugar Plum,Sativa,,84.17
+1303,Professor Chaos,Hybrid,,94.87
+1304,Frisian Duck,Hybrid,,
+1305,Donegal,Hybrid,,90.84
+1306,Dutch Dragon,Sativa,,97.73
+1307,Eran Almog,Indica,,5.79
+1308,Blue Trainwreck,Hybrid,,76.78
+1309,Citradelic Sunset,Hybrid,,
+1310,Holy Roller,Hybrid,,
+1311,Buddha OG Kush,Hybrid,,
+1312,Day Tripper,Hybrid,,61.34
+1313,Blueberry Jack,Hybrid,17.0,61.34
+1314,Golden Tiger,Sativa,,
+1315,Afwreck,Hybrid,,86.97
+1316,Lime Green Skunk,Hybrid,,92.51
+1317,Member OG,Hybrid,,
+1318,Ghost Cookies,Hybrid,21.0,20.85
+1319,Blues,Hybrid,,19.38
+1320,The Truth,Hybrid,18.0,43.42
+1321,Jesus,Hybrid,19.0,50.47
+1322,ICED Grapefruit,Hybrid,17.0,53.62
+1323,Purple Glue,Hybrid,,
+1324,Lazy Lightning,Hybrid,,
+1325,Face on Fire,Hybrid,,
+1326,Fruit Spirit,Hybrid,,43.54
+1327,BSC,Hybrid,,22.07
+1328,Kali Dog,Hybrid,,
+1329,Illuminati OG,Indica,,0.62
+1330,Aloha,Sativa,,98.25
+1331,LA Ultra,Indica,,7.49
+1332,Critical,Hybrid,15.0,
+1333,Scroopy Noopers,Hybrid,,
+1334,Pineapple Cookies,Hybrid,,66.95
+1335,LVPK,Hybrid,,28.24
+1336,Dopium,Hybrid,,84.83
+1337,Dutchberry,Hybrid,,85.46
+1338,Poochie Love,Sativa,,
+1339,Spumoni,Hybrid,,
+1340,Raindance,Hybrid,,25.64
+1341,Moon Cookies,Hybrid,,
+1342,Purple Jack,Hybrid,,89.33
+1343,999,Indica,,
+1344,Green Line OG,Hybrid,,61.34
+1345,Zeus OG,Hybrid,,49.51
+1346,Black Betty,Hybrid,18.0,82.04
+1347,Purple Pie,Hybrid,,
+1348,Brian Berry Cough,Hybrid,15.0,80.26
+1349,Blue Monster,Indica,,1.46
+1350,Pink Mango,Hybrid,,46.19
+1351,Cherry Thunder Fuck,Hybrid,,86.68
+1352,Kraken,Indica,,1.14
+1353,Blue Venom,Hybrid,,29.16
+1354,White Skunk,Hybrid,,24.61
+1355,Super Sour Skunk,Hybrid,,77.01
+1356,Mango Dream,Sativa,,95.41
+1357,Alien Sour Apple,Hybrid,,
+1358,Afcrack,Hybrid,,
+1359,Frostbite,Sativa,,48.16
+1360,Treasure Island,Hybrid,,57.52
+1361,Florida OG,Hybrid,22.0,
+1362,Green Monster,Hybrid,,51.21
+1363,White Zombie,Hybrid,,61.34
+1364,Fruity Chronic Juice,Indica,16.0,38.67
+1365,Pink Berry,Indica,,
+1366,Washing Machine,Indica,,
+1367,Satori,Hybrid,,96.79
+1368,Silver Mountain,Hybrid,20.0,
+1369,White Haze,Sativa,,83.64
+1370,Shiatsu Kush,Hybrid,,7.18
+1371,Hibiscus Sunrise,Hybrid,,
+1372,Hawaiian Purple Kush,Indica,,12.16
+1373,Animal Blues,Hybrid,,
+1374,Star Pupil,Hybrid,,
+1375,Red Poison,Hybrid,,35.73
+1376,Blue Hash,Hybrid,,8.03
+1377,Lucy,Hybrid,,13.69
+1378,Ghostbreath,Hybrid,,
+1379,Early Skunk,Hybrid,,61.34
+1380,Alien Stardawg,Sativa,,
+1381,Jungle Scout Cookies,Hybrid,,
+1382,G.O.A.T.,Hybrid,,
+1383,Elvis,Hybrid,,71.52
+1384,White Sangria,Hybrid,,61.34
+1385,Sour Flower,Sativa,,98.96
+1386,South American,Sativa,,74.93
+1387,Sonic Screwdriver,Sativa,,99.38
+1388,Sugar Shack,Hybrid,,27.8
+1389,Pitbull,Indica,17.0,11.91
+1390,Central American,Sativa,,
+1391,Barbara Bud,Indica,,3.47
+1392,Pluto Kush,Indica,,2.95
+1393,Hindu Skunk,Indica,,51.99
+1394,Dream Star,Hybrid,,97.99
+1395,Black Out,Hybrid,,
+1396,Banana Candy,Indica,,11.64
+1397,Marcosus Marshmellow,Hybrid,,
+1398,Wabanaki,Sativa,,98.85
+1399,Kalashnikova,Hybrid,,36.69
+1400,Cluster Funk,Hybrid,,
+1401,Secret Recipe,Hybrid,,46.19
+1402,Dream Berry,Indica,,8.61
+1403,Devil's Tit,Sativa,,
+1404,Cherry Sherbet,Hybrid,,9.98
+1405,Confidential Cheese,Indica,20.0,30.24
+1406,K-Train,Indica,,61.34
+1407,Darkside OG,Indica,17.0,
+1408,Sugar Breath,Hybrid,,
+1409,CHR Super OG,Indica,,
+1410,Panama Punch,Sativa,,
+1411,Firewalker OG,Sativa,21.0,74.41
+1412,Bootlegger,Hybrid,,
+1413,OGiesel,Hybrid,,91.33
+1414,White Girl,Hybrid,,
+1415,Hammerhead,Indica,16.0,
+1416,Death By Cake OG,Hybrid,,
+1417,Jawa Pie,Indica,,4.0
+1418,Ethos Apex,Hybrid,,
+1419,Jock Horror,Sativa,,92.51
+1420,Dawg's Waltz,Hybrid,,10.98
+1421,Kushage,Hybrid,26.0,97.23
+1422,Deep Purple,Indica,,6.75
+1423,Special Kush #1,Indica,,
+1424,Mad Dawg,Hybrid,17.0,34.35
+1425,Space Cream,Hybrid,,64.69
+1426,Kona Gold,Sativa,16.0,99.21
+1427,Bloodwalker,Hybrid,,72.66
+1428,Sour Strawberry,Hybrid,15.0,65.54
+1429,Avi-Dekel,Hybrid,,63.82
+1430,Cackleberry,Hybrid,,
+1431,UW,Indica,18.0,2.42
+1432,Old School OG,Hybrid,,
+1433,Black Roses,Indica,,
+1434,Ice Queen,Hybrid,,89.9
+1435,Aceh,Sativa,,17.41
+1436,Double Diesel,Sativa,,89.41
+1437,Whiteout,Hybrid,,
+1438,Omega,Hybrid,,77.01
+1439,Dutch Treat Haze,Hybrid,,84.52
+1440,Mega Jackpot,Hybrid,,
+1441,White Harmony,Hybrid,,
+1442,AK-OG Kush,Hybrid,,
+1443,Samoa Kush,Hybrid,22.0,
+1444,Birds of Paradise,Hybrid,18.0,
+1445,Opium,Hybrid,,
+1446,Apricot Jelly,Hybrid,,
+1447,Heisenberg Kush,Sativa,,89.41
+1448,Grape Skunk,Indica,,22.07
+1449,Big Mac,Indica,,
+1450,Mazar Kush,Indica,,3.71
+1451,Catfish,Sativa,,98.01
+1452,Purple Zkittlez,Indica,,
+1453,Panda OG,Hybrid,,48.16
+1454,Snow Leopard,Indica,,15.88
+1455,Pacific Frost,Hybrid,,
+1456,Purple Nepal,Indica,18.0,11.64
+1457,Shaman,Sativa,,99.0
+1458,Emerald Jack,Sativa,,87.99
+1459,Peppermint Cookies,Hybrid,,71.78
+1460,Peach Crescendo F-1,Hybrid,,
+1461,Alchemy,Hybrid,,
+1462,OG Glue Sniffer,Hybrid,,
+1463,B.B. King,Indica,,
+1464,Designer OG,Hybrid,18.0,
+1465,Vanilla Gorilla,Hybrid,,
+1466,Biochem,Indica,,0.62
+1467,Purple Reign,Hybrid,,
+1468,Strawberry Dream,Hybrid,19.0,86.41
+1469,Cinderella's Dream,Hybrid,,93.14
+1470,Grand Doggy Purps,Indica,,31.13
+1471,Cakewalk,Hybrid,,
+1472,Shark Bite,Hybrid,,
+1473,More Cowbell,Hybrid,,
+1474,Grandma’s Batch,Hybrid,,
+1475,El Fuego,Hybrid,,
+1476,Love Triangle,Hybrid,,
+1477,Big Kush,Hybrid,,
+1478,Giesel,Hybrid,18.0,
+1479,Super Green Crack,Sativa,,99.38
+1480,Frank's Gift,Hybrid,6.0,31.57
+1481,Double Purple Doja,Indica,,5.51
+1482,Slurpie,Hybrid,,
+1483,The Third Dimension,Hybrid,14.0,77.63
+1484,Lemon Wreck,Hybrid,,59.52
+1485,Haleigh’s Hope,Hybrid,,26.98
+1486,Mad Scientist,Indica,,22.98
+1487,OG LA Affie,Indica,,8.31
+1488,Grape Valley Kush,Indica,,3.36
+1489,92 OG,Hybrid,,
+1490,Heavy Duty Fruity,Hybrid,,69.8
+1491,P-91,Hybrid,,22.25
+1492,Blowfish,Hybrid,,17.72
+1493,OG Strawberry,Hybrid,23.0,3.3
+1494,Sour Maui,Sativa,,98.64
+1495,South Asian Sativa,Sativa,,
+1496,Pure Love,Indica,,13.69
+1497,Colin OG S1,Hybrid,,
+1498,Middlefork,Hybrid,,68.45
+1499,Aurora Borealis,Indica,,15.32
+1500,White Lotus,Hybrid,,1.77
+1501,Kill Bill,Hybrid,,
+1502,Purple Ice,Hybrid,20.0,71.78
+1503,Light of Jah,Sativa,,94.16
+1504,Aloha Limone,Hybrid,,
+1505,Pineapple Super Silver Haze,Sativa,,99.38
+1506,Amethyst,Hybrid,,
+1507,Chocolate Lava,Hybrid,,
+1508,OGKZ,Hybrid,,
+1509,BOG Bubble,Hybrid,,
+1510,Afghan Big Bud,Indica,,77.01
+1511,Frisian Dew,Hybrid,,32.55
+1512,Purple Buddha,Indica,,19.38
+1513,Mother of All Cherries,Indica,,
+1514,Cobra Lips,Hybrid,,
+1515,Cambodian,Sativa,,
+1516,Guptilla,Hybrid,,16.95
+1517,Don Carlos,Hybrid,,
+1518,Blue Galaxy,Hybrid,,
+1519,Blue Nightmare,Hybrid,,39.08
+1520,Goldberry,Indica,,97.29
+1521,707 Truthband,Hybrid,,
+1522,Twisted Citrus,Sativa,20.0,91.84
+1523,Palm Tree CBD,Indica,,6.63
+1524,Rockbud,Indica,,
+1525,Mandarin Kush,Hybrid,,
+1526,Buddha's Hand,Hybrid,,
+1527,Pineberry,Hybrid,15.0,
+1528,KO Kush,Hybrid,17.0,
+1529,Supermax OG,Hybrid,,8.61
+1530,Outlaw,Sativa,,
+1531,Strawberry Blonde,Sativa,,
+1532,60 Day Lemon,Hybrid,,
+1533,Hemlock,Hybrid,,78.65
+1534,Caramelicious,Hybrid,,63.3
+1535,Black Bubba,Indica,,0.62
+1536,Rolls Choice,Hybrid,,62.97
+1537,Bakers Delight,Hybrid,,
+1538,Chupacabra,Hybrid,19.0,48.97
+1539,Puna Budder,Hybrid,,
+1540,Moonwalker Kush,Hybrid,,
+1541,Super G,Sativa,,
+1542,Sexxpot,Indica,,
+1543,Brazil Amazonia,Sativa,,
+1544,Jah Kush,Hybrid,,89.79
+1545,Sonoma Coma,Sativa,,65.82
+1546,Fire Alien Kush,Hybrid,,51.99
+1547,Space Dawg,Indica,,36.88
+1548,Serious Happiness,Hybrid,,67.47
+1549,Blue Tahoe,Hybrid,,
+1550,Lemon Jeffery,Hybrid,,
+1551,Skunk Dawg,Sativa,,82.7
+1552,Hawaiian Sativa,Sativa,,98.42
+1553,White Queen,Hybrid,17.0,42.9
+1554,Star Cookie,Hybrid,,
+1555,Atomical Haze,Sativa,,78.29
+1556,Hercules,Hybrid,,92.51
+1557,UltraViolet OG,Indica,19.0,17.84
+1558,Blackberry Diesel,Sativa,,89.08
+1559,Bell Ringer,Indica,,
+1560,Four Way,Indica,,
+1561,Afghani CBD,Indica,,4.89
+1562,American Pie,Hybrid,,
+1563,Purple Cotton Candy,Indica,,23.88
+1564,Gutbuster,Indica,17.0,
+1565,Blueberry Lambsbread,Hybrid,,
+1566,Six Shooter,Hybrid,,
+1567,3rd Coast Panama Chunk,Hybrid,,76.44
+1568,Blaze,Sativa,,
+1569,Mother’s Helper,Hybrid,,98.9
+1570,Lemon Thai Kush,Hybrid,,
+1571,Purple Afghan Kush,Indica,,
+1572,Sweet Berry,Hybrid,,
+1573,Cherry Vanilla Cookies,Hybrid,16.0,
+1574,Jack Diesel,Sativa,,91.8
+1575,Hawaiian Diesel,Sativa,,73.05
+1576,Cookie Jar,Hybrid,,
+1577,Ripped Bubba,Hybrid,17.0,53.39
+1578,Black Dahlia,Hybrid,,9.26
+1579,Love Potion #9,Indica,,12.61
+1580,Pineapple Purps,Sativa,,
+1581,NYPD,Sativa,,79.56
+1582,Blue Satellite,Sativa,,95.26
+1583,Shipwreck,Sativa,,74.67
+1584,Ken's Kush,Hybrid,,9.68
+1585,White Cherry Truffle,Hybrid,,
+1586,Harry Potter,Hybrid,,
+1587,Sour Cherry Sherbert,Hybrid,,81.55
+1588,Jacked-Up,Hybrid,,98.15
+1589,The Cough,Sativa,,98.94
+1590,King's Bread,Sativa,,97.23
+1591,Black Magic Kush,Indica,,0.62
+1592,Funfetti,Hybrid,,52.31
+1593,Mother’s Finest,Sativa,,74.93
+1594,Alien Hallucination,Hybrid,,74.29
+1595,Purple Unicorn,Hybrid,,
+1596,Supernova,Hybrid,,11.64
+1597,Kushadelic,Indica,,
+1598,Red Eye OG,Indica,,1.27
+1599,OZ Kush,Hybrid,,
+1600,Afghan Sour Kush,Indica,,
+1601,Ghost Ship,Indica,,
+1602,Tang Eray,Hybrid,,
+1603,Green Hornet,Hybrid,,92.51
+1604,Zen,Hybrid,,61.34
+1605,Orange Fanta,Hybrid,,
+1606,Ill OG,Indica,,
+1607,Amnesi-K Lemon,Sativa,,
+1608,Bubble Cheese,Indica,,
+1609,Flaming Cookies,Indica,,7.49
+1610,Galactica OG,Indica,,
+1611,Toxic,Hybrid,,
+1612,Misty Kush,Indica,,37.38
+1613,Mystery 98,Hybrid,,
+1614,Glue Tech,Hybrid,,
+1615,Crumbled Lime,Sativa,,
+1616,Purple Cheddar,Indica,,25.08
+1617,Alpine Star,Indica,18.0,
+1618,Silver Back,Hybrid,17.0,
+1619,Zelly’s Gift,Sativa,,95.26
+1620,Shining Silver Haze,Sativa,,
+1621,9D4,Hybrid,,
+1622,Rocky Mountain High,Hybrid,,
+1623,Ape Shit,Hybrid,,
+1624,Starry Night,Hybrid,,
+1625,Silverhawks OG,Sativa,21.0,
+1626,Quattro Kush,Hybrid,,
+1627,Serious 6,Sativa,,
+1628,Arjan's Ultra Haze #1,Sativa,,83.64
+1629,Sweet Pink,Hybrid,,
+1630,Blue Dot,Sativa,,98.9
+1631,Sensi Skunk,Indica,,16.23
+1632,White Ice,Hybrid,20.0,
+1633,Beastmode OG,Hybrid,,69.46
+1634,Honey Lemon Cheese,Hybrid,,
+1635,Harmony,Hybrid,,54.6
+1636,Blood Orange Sorbet,Hybrid,,
+1637,Brains Damage,Indica,,0.62
+1638,Lamborghini,Hybrid,,
+1639,J-27,Sativa,,99.38
+1640,White Chocolate,Hybrid,,
+1641,Alien Breath,Hybrid,23.0,
+1642,AK Choco Kush,Hybrid,,
+1643,Punky Lion,Indica,,
+1644,Venice OG,Sativa,,93.98
+1645,Russian Assassin,Indica,,
+1646,Triangle Mints,Hybrid,,
+1647,Lemon Créme,Sativa,,
+1648,Sapphire Scout,Hybrid,,
+1649,American Dream,Hybrid,,22.25
+1650,BC Roadkill,Hybrid,,96.41
+1651,Mother Tongue,Sativa,19.0,99.24
+1652,Orange Hill Special,Hybrid,,
+1653,Connie Chung,Hybrid,,26.14
+1654,Rocklock,Indica,,39.08
+1655,Tango Kush,Hybrid,,
+1656,Megalodon,Sativa,,98.02
+1657,Sweet Deep Grapefruit,Indica,,9.04
+1658,Iron Triangle,Hybrid,21.0,
+1659,Emperor Cookie Dough,Hybrid,,48.97
+1660,Strawberry Snow Cone,Hybrid,,
+1661,Highwayman,Hybrid,,
+1662,Dark Shadow Haze,Hybrid,,
+1663,Kings Banner,Hybrid,,
+1664,White LSD,Sativa,,
+1665,Blue Heron,Hybrid,,
+1666,Azure Haze,Hybrid,12.0,
+1667,White Siberian,Hybrid,,32.16
+1668,Han Solo Burger,Hybrid,,
+1669,StarBud,Indica,,3.1
+1670,White Smurf,Hybrid,,
+1671,Allen Iverson OG,Indica,,
+1672,Hazmat OG,Hybrid,,
+1673,Trident,Hybrid,,65.54
+1674,Kush Hemp,Hybrid,,
+1675,Think Different,Hybrid,,85.46
+1676,Tesla,Hybrid,19.0,
+1677,The Sister,Indica,,
+1678,Huckleberry Soda,Hybrid,,
+1679,Dizzy OG,Hybrid,,
+1680,Hippie Chicken,Sativa,,92.51
+1681,Jazz,Hybrid,17.0,87.06
+1682,Frosted Freak,Hybrid,,61.34
+1683,Dirty Old Bastard,Indica,,
+1684,Vixen,Hybrid,,
+1685,Maui Mango Diesel,Hybrid,,87.54
+1686,Green Magic,Hybrid,,
+1687,Gelato Sorbet,Hybrid,,
+1688,Chocolate Skunk,Sativa,,
+1689,French Bread,Indica,,
+1690,Blackberry Haze,Sativa,,65.06
+1691,Kerosene,Sativa,,
+1692,Scout's Honor,Hybrid,24.0,3.06
+1693,L.A. Cheese,Hybrid,17.0,
+1694,Citral Skunk,Hybrid,,
+1695,Sasquatch Sap,Hybrid,,
+1696,Durban Berry,Hybrid,,79.79
+1697,Best Friend OG,Hybrid,,
+1698,Blue Dynamite,Indica,17.0,8.08
+1699,White Lemon,Hybrid,,
+1700,Dark Side of the Moon,Indica,,2.92
+1701,SleeStack,Sativa,,67.47
+1702,Bazooka Joe G,Hybrid,,
+1703,Tardis,Sativa,,92.51
+1704,Tangie Ghost Train,Sativa,15.0,
+1705,Dr. Greenthumb’s Em-Dog,Hybrid,,
+1706,Strawberry Blue,Sativa,15.0,95.85
+1707,Alien Cookies,Hybrid,19.0,
+1708,Purple Happy Rancher,Indica,,14.69
+1709,Gorilla Grips,Indica,,
+1710,Ms. Universe,Hybrid,,
+1711,Strawberry Sorbet,Hybrid,,
+1712,Kool-Aid Smile,Indica,,
+1713,Flo Limone,Sativa,,
+1714,Thai Haze,Sativa,,83.64
+1715,Training Day,Indica,,1.98
+1716,Mandarin TK,Hybrid,,
+1717,Alaska Thunder Grape,Hybrid,,
+1718,Chocolate Glue,Indica,,
+1719,Harambe,Hybrid,,
+1720,Killer Grape,Hybrid,15.0,
+1721,Glass Apple,Hybrid,,99.38
+1722,Django,Sativa,,
+1723,Purple Martian Kush,Indica,,3.3
+1724,Blue Ox,Indica,,
+1725,Hawaiian Skunk,Hybrid,,80.93
+1726,Sour LSD,Hybrid,,85.46
+1727,Juicy Jack,Hybrid,,84.83
+1728,Swiss Bliss,Hybrid,,
+1729,Magnum Opus,Hybrid,,
+1730,Crockett’s Haze,Hybrid,,
+1731,Cheese Candy,Hybrid,17.0,20.33
+1732,Dream Beaver,Sativa,20.0,95.65
+1733,CBD Lilly,Sativa,,
+1734,Purple Paralysis,Hybrid,17.0,15.97
+1735,Animal Mints,Hybrid,,
+1736,Super Sour Widow,Hybrid,,95.89
+1737,Sin City Kush,Indica,,
+1738,Chem Berry Diesel,Hybrid,,
+1739,Island Maui Haze,Sativa,,
+1740,Foul Mouth,Indica,,
+1741,White Lavender,Hybrid,,61.34
+1742,Atomic Bomb,Hybrid,,
+1743,Zamaldelica,Sativa,,
+1744,Anubis,Indica,,
+1745,Lemon Zest,Sativa,,
+1746,Ketama,Indica,,
+1747,Bubba Berry,Indica,,
+1748,Biohazard,Hybrid,,
+1749,Remo Chemo,Hybrid,,
+1750,Grimmdica,Indica,,
+1751,SeattleSoda,Hybrid,,
+1752,East Coast Alien,Sativa,,
+1753,Sorbetto,Hybrid,,
+1754,Alien Abduction,Hybrid,,
+1755,Nectarine Lips,Sativa,,
+1756,L.A.K. Federal Reserve,Indica,,
+1757,Magnum PI,Sativa,,99.38
+1758,Double Barrel OG,Hybrid,,
+1759,Velvet Purps,Hybrid,,
+1760,Industrial Plant,Hybrid,,
+1761,Kuchi,Hybrid,,
+1762,Hong Kong,Hybrid,,80.63
+1763,White Elephant,Hybrid,,10.45
+1764,Sweet Amnesia Haze,Sativa,,
+1765,Guava Chem,Hybrid,,85.86
+1766,Skydog,Indica,,56.37
+1767,Blackberry Dream,Hybrid,,82.04
+1768,El Niño,Hybrid,,29.25
+1769,Appleberry,Indica,,
+1770,Cookies Haze,Sativa,,
+1771,Chocolate Tonic,Hybrid,,
+1772,The Flav,Hybrid,17.0,88.69
+1773,Grape Candy,Hybrid,,
+1774,South Indian Sativa,Sativa,,
+1775,831 OG,Indica,,
+1776,Krishna Kush,Indica,,
+1777,Super Sour Lemon,Hybrid,,
+1778,Cali Dragon,Hybrid,,
+1779,Shark Attack,Indica,,
+1780,Cindy White,Hybrid,,91.88
+1781,Thai Lights,Hybrid,,83.64
+1782,Longbottom Leaf,Hybrid,,
+1783,Belladonna,Hybrid,17.0,55.96
+1784,Fire Haze,Sativa,,96.53
+1785,Platinum Wreck,Hybrid,20.0,80.43
+1786,Blue Wolf,Sativa,,
+1787,Agape,Sativa,,
+1788,Blurple,Hybrid,,36.25
+1789,Blue Ivy,Hybrid,,86.13
+1790,Green Crack Extreme,Sativa,,97.81
+1791,Astral Works,Hybrid,,
+1792,Whoopie Pie,Hybrid,,
+1793,American Kush,Indica,,4.58
+1794,Alien Asshat,Hybrid,,82.81
+1795,Jamaican Lion,Sativa,,87.54
+1796,Tree of Life,Hybrid,,
+1797,China Yunnan,Indica,,
+1798,Limon,Sativa,25.0,96.48
+1799,Blue Mountain Fire,Sativa,,
+1800,Absinthe,Hybrid,,
+1801,Jorge’s Diamond,Indica,,
+1802,Master Jedi,Indica,,31.71
+1803,Margaret Cho-G,Hybrid,,
+1804,California Sour,Hybrid,,
+1805,Double Mint,Indica,,
+1806,Buckeye Purple,Indica,,0.62
+1807,Bluniverse,Hybrid,,61.34
+1808,The OX,Indica,,2.46
+1809,Banana Sorbet,Hybrid,21.0,
+1810,Karma OG,Hybrid,20.0,
+1811,Ghost Bubba,Hybrid,,67.47
+1812,California Love OG,Hybrid,,
+1813,NY Cheese,Hybrid,,
+1814,Pacific Blue,Indica,,13.14
+1815,Caramel Kona Coffee Kush,Indica,,
+1816,Big Sur Holy Bud,Sativa,19.0,89.41
+1817,Cadillac Cookies,Indica,,
+1818,Blue Kripple,Indica,,
+1819,Trueberry,Indica,,
+1820,Cheesewreck,Hybrid,,38.34
+1821,Alien Inferno,Hybrid,,
+1822,Mammoth,Hybrid,,55.49
+1823,Pineapple Sage,Sativa,21.0,
+1824,Sour Urkle,Hybrid,,16.06
+1825,Black Fire,Hybrid,,
+1826,Monkey Bread #1,Indica,,
+1827,Liquid Butter,Indica,,8.87
+1828,Dutch Kush,Indica,,
+1829,NightFire OG,Sativa,,97.81
+1830,Pineapple Thai,Sativa,16.0,88.08
+1831,Super Bud,Indica,,6.16
+1832,Cherry Fuel,Hybrid,,
+1833,Hashplant Haze,Sativa,,79.79
+1834,White Strawberry,Hybrid,,
+1835,NukeHeads,Hybrid,,
+1836,Royal Tree Sherbet,Hybrid,,
+1837,X-Wing,Indica,,
+1838,Carnival,Sativa,,
+1839,Powernap,Hybrid,,
+1840,CBD OG,Hybrid,21.0,
+1841,Sour OG Cheese,Hybrid,,
+1842,Bediol,Sativa,,56.71
+1843,Guard Dawg,Indica,,
+1844,White Choco,Hybrid,,
+1845,Grimace OG,Indica,17.0,
+1846,Lake of Fire,Hybrid,,33.39
+1847,Summer Breeze,Hybrid,,
+1848,Go Time,Hybrid,,
+1849,Zoom Pie,Indica,,
+1850,Blue Buddha,Indica,,
+1851,Royal Dwarf,Hybrid,,
+1852,OCD,Sativa,18.0,99.38
+1853,Hempstar,Sativa,,97.61
+1854,Humboldt Dream,Indica,,
+1855,Amnesia Ganja Haze,Sativa,,
+1856,Quad Dawg,Hybrid,,
+1857,CannaSutra,Indica,,
+1858,Kush-N-Cheese,Hybrid,,
+1859,Pearl Scout Cookies,Hybrid,17.0,89.08
+1860,Terminator OG,Indica,,
+1861,Black Magic,Hybrid,17.0,
+1862,Brainstorm Haze,Sativa,,98.92
+1863,Chocolate Thunder,Sativa,,
+1864,Sweet Jane,Sativa,18.0,
+1865,Afrikaner,Sativa,,
+1866,Green Crack CBD,Hybrid,,
+1867,The Grunk,Hybrid,,67.2
+1868,Safety Meeting,Hybrid,,
+1869,Old Toby,Hybrid,,
+1870,Stinky Pete,Hybrid,,
+1871,Tuna OG,Hybrid,,
+1872,Terpwin Station,Hybrid,,
+1873,Crypt,Hybrid,,
+1874,Sweet Valley Kush,Hybrid,,
+1875,Ebola #7,Hybrid,,
+1876,Afghan Widow,Hybrid,,
+1877,Deadlights,Hybrid,,
+1878,Double Tap,Indica,,
+1879,Moon Drops,Hybrid,,
+1880,Project Blue Book,Hybrid,,
+1881,Star Master Kush,Indica,,
+1882,Tangerine Sunrise,Sativa,,
+1883,Booger,Hybrid,,96.37
+1884,Special K,Hybrid,,77.01
+1885,Blackberry Lime Haze,Sativa,,97.23
+1886,OG Los Angeles Kush,Indica,,
+1887,Cypress OG,Hybrid,,
+1888,Cambodian Haze,Sativa,,
+1889,Jack Wreck,Sativa,,97.29
+1890,Edelweiss,Indica,,55.22
+1891,Early Miss,Hybrid,,
+1892,Jack Kush,Hybrid,,76.44
+1893,Raw Diesel,Hybrid,20.0,
+1894,Quebec Gold,Hybrid,,
+1895,Berries & Crème,Indica,,
+1896,Kiwiskunk,Indica,,
+1897,Dream Machine,Hybrid,,
+1898,Mercury OG,Indica,,30.13
+1899,Blackberry Pie,Hybrid,,
+1900,Medibud,Hybrid,,61.34
+1901,Aspen OG,Hybrid,,
+1902,Cobbler,Hybrid,,
+1903,Blue Thai,Hybrid,,
+1904,Master Skunk,Hybrid,,14.15
+1905,Heavenly OG,Hybrid,,
+1906,Gandalf OG,Indica,,
+1907,Yoda's Brain,Indica,,
+1908,Diesel Glue,Hybrid,,
+1909,Spice,Hybrid,,
+1910,Sumo Grande,Sativa,,
+1911,Sizzurp,Hybrid,,
+1912,Cronuts,Hybrid,,
+1913,Happy Rancher,Hybrid,,72.66
+1914,Grape Bubba,Hybrid,,
+1915,Dinachem,Hybrid,,
+1916,Dosi-Woah! R1,Hybrid,,
+1917,Bangi Haze,Sativa,,
+1918,Super Sweet,Hybrid,,98.18
+1919,Grilled Cheese,Hybrid,,
+1920,Grape Vine,Hybrid,,
+1921,Crockett’s Confidential,Hybrid,21.0,
+1922,Holy Ghost,Hybrid,,11.64
+1923,Purple People Eater,Indica,,
+1924,IG Kush,Hybrid,,
+1925,Hulkamania,Indica,,
+1926,Zelda,Hybrid,,
+1927,Cherry Durban Poison,Hybrid,,
+1928,Kiss,Hybrid,,
+1929,Sky Lotus,Hybrid,,
+1930,Enigma,Indica,,13.69
+1931,Allkush,Indica,,
+1932,Sour Poison,Sativa,,
+1933,Heatwave,Hybrid,,
+1934,Blackberry Trainwreck,Hybrid,15.0,36.25
+1935,Lemon Tangie,Hybrid,,
+1936,Banana Peel,Hybrid,14.0,
+1937,Nuclear Cookies,Hybrid,,
+1938,G-Force,Indica,,
+1939,God's Treat,Indica,,
+1940,Black Lotus,Hybrid,,
+1941,Wellness OG,Hybrid,,95.26
+1942,Sierra Mist,Hybrid,,
+1943,Hawaiian Fire,Hybrid,,97.81
+1944,Sky Master,Sativa,,
+1945,Bubble Bomb,Hybrid,19.0,
+1946,Southern Lights,Sativa,,
+1947,SFV Dog,Hybrid,,46.19
+1948,5k Puff,Hybrid,,
+1949,Neptune OG,Indica,,17.84
+1950,White Strawberry Skunk,Hybrid,,
+1951,Euphoria Cookies,Hybrid,,
+1952,Mighty Glue,Hybrid,,
+1953,Banana Milk,Hybrid,,
+1954,Sugar Mama,Indica,,40.38
+1955,BC Sweet Tooth,Indica,,37.92
+1956,Double Dutch,Hybrid,,
+1957,Blue Tara,Hybrid,,
+1958,Sunset Haze,Hybrid,,
+1959,Raspberry Diesel,Hybrid,,
+1960,Lion’s Milk,Hybrid,,
+1961,Snow Diesel,Hybrid,,
+1962,Lucifer OG,Indica,,
+1963,Mountain Thunder,Sativa,,
+1964,Night Train,Indica,,
+1965,Kaboom,Sativa,15.0,98.96
+1966,Silver Cheese,Hybrid,,
+1967,Early Pearl,Sativa,,
+1968,Blue Flame,Hybrid,,
+1969,Diamond Valley Kush,Hybrid,,
+1970,Desert Diesel,Hybrid,18.0,
+1971,XXX 420,Indica,,
+1972,Arabian Gold,Sativa,,
+1973,Cookies and Cream Cheese,Hybrid,,
+1974,60 Day Wonder,Hybrid,,
+1975,Nebula II CBD,Hybrid,,72.66
+1976,Russian Rocket Fuel,Hybrid,,95.81
+1977,Mountain Girl,Hybrid,,
+1978,Jimi Hendrix,Hybrid,,
+1979,Jack's Dream,Hybrid,,
+1980,Double Stuffed Sorbet,Hybrid,,
+1981,Punto Rojo (Tierra Adentro),Sativa,,
+1982,Blackberry Rhino,Indica,,15.32
+1983,Sour Willie,Sativa,,96.94
+1984,CSG,Hybrid,,
+1985,Mandarin Zkittlez,Hybrid,,
+1986,Northern Skunk,Hybrid,,37.11
+1987,Sublime,Sativa,,98.64
+1988,California Sour Diesel,Hybrid,,
+1989,Strawberry Blondie,Hybrid,,65.82
+1990,Yummy,Hybrid,,4.71
+1991,Hawaiian Mayan Gold,Sativa,,
+1992,First 48,Hybrid,,34.35
+1993,Gravity,Indica,,27.16
+1994,Cookie Puss,Hybrid,,
+1995,Pamelina,Indica,,
+1996,Tina Danza,Hybrid,20.0,19.38
+1997,Cocoa Kush,Hybrid,,
+1998,Mendocino Madness,Hybrid,,
+1999,Truffula Tree,Hybrid,,
+2000,Hawaiian Duckfoot,Indica,,
+2001,Cherry Fire,Hybrid,,
+2002,B-Witched,Hybrid,,
+2003,Michael Phelps OG,Hybrid,,24.84
+2004,Rocky Mountain Blueberry,Indica,,
+2005,Dr. Feelgood,Hybrid,,
+2006,Green Python,Indica,,
+2007,Peach Puree,Hybrid,,
+2008,Orange Kush Cake,Hybrid,,
+2009,Buffalo Bill,Sativa,,
+2010,Himalayan Blackberry,Indica,,6.29
+2011,Blue Nina,Hybrid,,
+2012,Caramel Cake,Hybrid,19.0,
+2013,West Coast Dawg,Indica,,
+2014,Island Haze,Sativa,,
+2015,Damnesia,Hybrid,,
+2016,Swiss Tsunami,Sativa,,
+2017,Suicide Girl,Hybrid,,
+2018,Purple Majik,Hybrid,,
+2019,Carl Sagan,Hybrid,,74.08
+2020,Aloha Grape Stomper,Hybrid,,
+2021,Cookie Pebbles OG,Hybrid,,
+2022,Urkle Train Haze,Hybrid,,56.37
+2023,Coconut Oil,Hybrid,,
+2024,Loopy Fruit,Hybrid,,
+2025,Morning Glory,Hybrid,19.0,
+2026,Mako Haze,Sativa,,99.38
+2027,Lemon Daddy,Hybrid,,
+2028,Haze Heaven,Hybrid,,
+2029,Godfather Purple Kush,Indica,,
+2030,Pure Afghan,Indica,,5.7
+2031,Karma Bitch,Hybrid,,78.29
+2032,Blackberry x Blueberry,Indica,,1.36
+2033,Wookie’s Cookies,Hybrid,15.0,
+2034,Sour Breath,Sativa,,
+2035,Grape Drink,Indica,,
+2036,Purple Goat,Hybrid,,
+2037,Guava,Sativa,,
+2038,Confidential Cookies,Indica,,
+2039,Rob Ford Kush,Hybrid,,
+2040,Piña Collision,Sativa,,
+2041,Grimace,Indica,,3.33
+2042,White Romulan,Hybrid,,21.64
+2043,Kubbie Kush,Indica,,0.82
+2044,Katsu Kush,Indica,,5.13
+2045,Fallen Angel,Indica,,
+2046,Cabbage Patch,Hybrid,,
+2047,Quiver Killer Kush,Hybrid,,
+2048,B4,Hybrid,,
+2049,Blueberry Triple OG,Indica,,
+2050,Hi-Octane,Hybrid,,
+2051,Black Velvet,Hybrid,,16.95
+2052,White Dragon,Indica,,
+2053,Lavender Haze,Sativa,,95.05
+2054,GRiZ Kush,Hybrid,,70.58
+2055,Huckleberry Diesel,Hybrid,22.0,
+2056,Alien Dutchess,Sativa,,61.34
+2057,The Boss,Hybrid,,
+2058,Nurse Jackie,Sativa,,74.29
+2059,Cherry Moon Pie,Indica,,
+2060,Golden Panda,Hybrid,,61.34
+2061,Bermuda Sour,Hybrid,,
+2062,Doobiebird Daydream,Hybrid,,
+2063,Gog & Magog,Indica,,
+2064,Orange Turbo,Hybrid,,
+2065,Holy Punch,Hybrid,,
+2066,Hell Raiser OG,Hybrid,,68.85
+2067,Danky Doodle,Indica,,94.35
+2068,Magic Jordan,Hybrid,,
+2069,Green Cheese,Hybrid,,
+2070,Brainwreck,Hybrid,,
+2071,Aberdeen,Hybrid,,
+2072,Orange Harambe,Hybrid,,
+2073,Yogi Diesel,Hybrid,,
+2074,Blueberry Silvertip,Hybrid,,53.39
+2075,Wonka's Bubblicious,Hybrid,,91.44
+2076,Durga Mata II,Hybrid,,
+2077,God's Bubba,Indica,,
+2078,L'Eagle Eagle,Hybrid,,99.38
+2079,Pineapple Purple Skunk,Hybrid,,
+2080,Ortega,Indica,,
+2081,Dough Lato,Hybrid,,
+2082,Lemon Fire,Hybrid,,
+2083,Blue Zombie,Indica,,
+2084,Alohaberry,Hybrid,,97.51
+2085,Chuck OG,Hybrid,,
+2086,Heaven Scent,Hybrid,,
+2087,Little Dragon,Hybrid,,
+2088,Florida Lemons,Hybrid,,
+2089,Russian Doll,Sativa,,
+2090,Kritikal-K,Indica,,
+2091,Marley's Collie,Hybrid,,
+2092,Little Devil,Hybrid,,
+2093,Faygo Red Pop,Indica,,
+2094,Boggle Gum,Hybrid,,85.74
+2095,Crimea Blue,Hybrid,,30.52
+2096,Blizzard Bush,Hybrid,,
+2097,Haze Wreck,Sativa,,
+2098,Blue OG Sherbert,Hybrid,,
+2099,Thunderbird Rose,Sativa,,
+2100,Wonder Woman OG,Indica,,19.38
+2101,Blue Champagne,Hybrid,,91.97
+2102,Exodus Kush,Hybrid,,
+2103,Pine Cone,Hybrid,,
+2104,The White Angel,Hybrid,,
+2105,OG Eddy Lepp,Indica,,
+2106,Swiss Indica,Indica,,
+2107,Valentine X,Hybrid,13.0,
+2108,Thunderstruck,Sativa,,
+2109,Citradelic Cookies,Hybrid,,
+2110,Brain Candy,Hybrid,,
+2111,Banana Daddy,Hybrid,,
+2112,Citral Flo,Hybrid,,
+2113,Doc Holliday,Hybrid,,
+2114,Purple Pinecone,Indica,,
+2115,Lil Sebastian,Hybrid,,
+2116,Big Wreck,Indica,,38.34
+2117,Ol' Betsy,Hybrid,,
+2118,Bubba x Skunk,Hybrid,,
+2119,Triple Scoop,Hybrid,,
+2120,Afrodite,Hybrid,,
+2121,Chong Star,Hybrid,,37.38
+2122,Sour Spyder,Indica,,
+2123,Above and Beyond,Hybrid,,
+2124,Fruity Juice,Hybrid,,
+2125,Cherry Skunk,Hybrid,,57.4
+2126,Cherry Puff,Hybrid,,
+2127,Buford OG,Hybrid,,
+2128,North American Indica,Indica,,
+2129,Grateful Breath,Hybrid,,
+2130,Animal Gas,Hybrid,21.0,
+2131,Pink Hawaiian,Hybrid,,
+2132,GlueChee,Hybrid,,
+2133,Oregon Pinot Noir,Sativa,,
+2134,Purple Snowman,Hybrid,,
+2135,Don Shula,Hybrid,,
+2136,R-4,Hybrid,,
+2137,Badazz Cheese,Indica,,
+2138,Gupta Kush,Hybrid,,
+2139,The Gift,Hybrid,,
+2140,Ash,Hybrid,,
+2141,The Void,Hybrid,,74.2
+2142,Afpak,Hybrid,,
+2143,Bleugenius,Hybrid,,
+2144,K1,Hybrid,16.0,
+2145,Odyssey,Hybrid,,34.35
+2146,Crystal Gayle,Hybrid,,
+2147,Berry Larry,Hybrid,,
+2148,Animal Land,Hybrid,,
+2149,Rebel God Smoke,Sativa,,
+2150,Titan's Haze,Sativa,,
+2151,Dosi White,Hybrid,,
+2152,Ghetto Bird,Hybrid,,
+2153,Thaidal Wave,Hybrid,,
+2154,Phatt Frutty,Indica,,
+2155,Dank Dough,Hybrid,,
+2156,Stardawg 91,Indica,,
+2157,Wakanda OG,Hybrid,,
+2158,Ice Kush,Hybrid,,
+2159,Bedica,Indica,,9.98
+2160,Moon Walk,Indica,,
+2161,Orange Wreck,Sativa,,
+2162,Glad Max,Hybrid,,71.03
+2163,Bright Fire,Indica,,
+2164,Sour Strawberry Diesel,Hybrid,,56.87
+2165,Blueberry Hashplant,Hybrid,,
+2166,Critical 47,Hybrid,,
+2167,West OG,Indica,,
+2168,Loud Scout,Hybrid,,
+2169,Pinewarp,Hybrid,,
+2170,White Bubblegum,Indica,,
+2171,Desert Star,Hybrid,,
+2172,Lime Tart,Indica,,
+2173,Bubba's Bitch,Indica,,
+2174,Alion,Hybrid,,
+2175,Jurassic Purp,Hybrid,,
+2176,Horace,Sativa,24.0,
+2177,Orange Afghani,Indica,,
+2178,Animal Sherbert,Hybrid,,
+2179,Blue Blood,Indica,,2.95
+2180,Formula One,Hybrid,,
+2181,Blackberry Moonrocks,Hybrid,,
+2182,Burnt Cookies,Hybrid,17.0,
+2183,Rocky Dennis,Hybrid,,92.51
+2184,Supa Don,Sativa,,
+2185,Mangolicious,Indica,,
+2186,Tahoe Purps,Indica,,
+2187,A La Mode,Hybrid,,
+2188,Cherries Jubilee,Indica,,
+2189,Or,Hybrid,,2.46
+2190,840,Hybrid,,
+2191,Dawgfather OG,Hybrid,,
+2192,Alpine Blue,Hybrid,15.0,
+2193,Shurman,Hybrid,,
+2194,Jane Doe,Hybrid,,
+2195,Blue Treat,Hybrid,,
+2196,Violeta,Hybrid,,
+2197,Huckleberry Cough,Hybrid,,
+2198,Strawberry Frost,Indica,,
+2199,Iced Widow,Indica,,29.98
+2200,California Black Roze,Hybrid,,
+2201,Orange Durban,Sativa,,
+2202,Erez,Indica,,0.89
+2203,Blackberry Cobbler,Hybrid,,
+2204,Chloe,Hybrid,,75.9
+2205,Intergalactic,Hybrid,,
+2206,C3PO,Hybrid,,
+2207,Mandarin Jack,Hybrid,,
+2208,Snow Goddess,Hybrid,,
+2209,Budzilla,Hybrid,,
+2210,Diesel Drift,Sativa,,
+2211,Fast Eddy,Hybrid,,
+2212,Royal Purple Kush,Indica,,
+2213,Afghanimal,Indica,,
+2214,Crouching Tiger Hidden Alien,Indica,,11.64
+2215,Big Buddha’s King Kong,Hybrid,,
+2216,Anonymous OG,Indica,,
+2217,Future #1,Hybrid,,
+2218,YEM OG,Hybrid,,
+2219,Blue Bayou,Sativa,,
+2220,Gemstone,Hybrid,,19.38
+2221,Fat Purple,Indica,,
+2222,Venus OG,Hybrid,,
+2223,Purple Hashplant,Hybrid,,3.71
+2224,R.K.S.,Hybrid,,
+2225,Kaia Kush,Hybrid,,
+2226,Sour Sorbet,Hybrid,18.0,
+2227,Rene,Hybrid,,71.52
+2228,California Hash Plant,Indica,,
+2229,Cascadia Kush,Indica,,
+2230,North American Sativa,Sativa,,
+2231,Jack’s Girl,Hybrid,,
+2232,Confidential Wreck,Hybrid,,
+2233,DJ's Gold,Hybrid,17.0,
+2234,Maui Bubble Gift,Hybrid,,45.6
+2235,WTF,Hybrid,19.0,
+2236,Thai-Tanic,Sativa,,97.14
+2237,Strawberry Alien Kush,Hybrid,,
+2238,Maui Pineapple Chunk,Hybrid,,
+2239,Moloka’i Frost,Indica,,
+2240,Yolo Berry,Indica,,
+2241,Stella Blue,Sativa,,90.18
+2242,AK-020,Hybrid,,
+2243,C13 Haze,Sativa,,
+2244,Johnny’s Tonic,Sativa,,
+2245,Mandala #1,Hybrid,,
+2246,Super Silver Hash Plant,Hybrid,,
+2247,White Caramel Cookie,Indica,,
+2248,Tesla Tower,Sativa,,
+2249,Karibbean Mango,Indica,,
+2250,Jack Smack,Sativa,,
+2251,Alley Cat Kush,Hybrid,,
+2252,Donna OG,Hybrid,,17.84
+2253,Cheeseburger,Hybrid,,
+2254,Good Medicine,Hybrid,,61.34
+2255,Trash,Hybrid,,
+2256,Bert's Cookie Dough,Hybrid,,
+2257,Strawberry Mango Haze,Sativa,,96.85
+2258,Very Cherry,Hybrid,,
+2259,Satsuma,Hybrid,,
+2260,Red Dwarf,Indica,,7.49
+2261,Tangelo Kush,Hybrid,,
+2262,Cherry Dawg,Hybrid,,
+2263,Bianca,Hybrid,,
+2264,Kerala,Sativa,,
+2265,Gremlin,Hybrid,,
+2266,Grape Dawg,Hybrid,,
+2267,Banana Mango,Hybrid,,
+2268,Tranquil Elephantizer: Remix,Indica,,1.62
+2269,Purple Bush,Indica,,
+2270,Medicine Woman,Hybrid,,61.34
+2271,Lions Gate,Indica,,
+2272,Truth Serum,Hybrid,,
+2273,Thelonious Skunk,Hybrid,,
+2274,Bango,Hybrid,,
+2275,Fire Alien Romulan,Hybrid,,
+2276,Big Skunk Korean,Hybrid,,
+2277,Killing Fields,Sativa,,99.38
+2278,Bubba Hash,Indica,,
+2279,Grand Hindu,Indica,,6.56
+2280,Dolce Gelato,Hybrid,,
+2281,Agent Tangie,Hybrid,,
+2282,Big Sky OG,Hybrid,,29.64
+2283,Chucky's Bride,Hybrid,,
+2284,Spliff’s Strawberry,Sativa,,
+2285,Durban Kush,Hybrid,15.0,
+2286,The Real McCoy,Hybrid,,
+2287,Red Rhino,Hybrid,,
+2288,VVS Chem,Hybrid,,
+2289,Rebel Berry OG,Hybrid,,
+2290,Cheese Dawg,Hybrid,,
+2291,Concord Cream,Hybrid,,
+2292,Rubicon,Hybrid,,32.16
+2293,Golden Tangie,Sativa,,
+2294,Motavation,Indica,,
+2295,Soulshine Aloha,Indica,,
+2296,Mr. Tusk,Hybrid,,
+2297,Blue Wreck,Hybrid,,50.32
+2298,Rise ‘n’ Shine,Hybrid,,
+2299,GDP Electric,Hybrid,,
+2300,Oregon Pineapple,Hybrid,,90.18
+2301,Phishhead Kush,Indica,,
+2302,The Ooze,Indica,,
+2303,Boysenberry ,Hybrid,,93.73
+2304,Jasmine,Hybrid,,
+2305,Bonkers,Hybrid,,
+2306,Summertime Squeeze,Sativa,,
+2307,Chem Crush,Hybrid,,
+2308,Mexican Kush,Hybrid,,
+2309,Tiger Woods,Hybrid,,
+2310,Dutch Thunder Fuck,Hybrid,,
+2311,Durban Cheese,Hybrid,,89.9
+2312,Gummo,Hybrid,,44.97
+2313,Snow Ryder,Indica,,
+2314,Trifecta,Hybrid,,
+2315,Ethiopian,Sativa,,
+2316,Government Mule,Indica,,
+2317,Frosty Jesus,Hybrid,,
+2318,Early Glue RBx1,Hybrid,,
+2319,KT Dawg,Hybrid,,
+2320,Supergirl,Indica,,
+2321,Riddler OG,Hybrid,,
+2322,Blue Boy,Hybrid,,61.34
+2323,Beastmode 2.0,Indica,,
+2324,Cherry Grapefruit,Hybrid,,
+2325,Lucid Bolt,Indica,15.0,
+2326,Orange Kush Breath,Hybrid,,
+2327,P-51,Indica,,61.34
+2328,GMO Zkittlez,Hybrid,,
+2329,Chem Kesey,Hybrid,,
+2330,Superstar,Hybrid,,
+2331,Black Cheese,Indica,17.0,
+2332,Seattle Blue,Indica,,90.41
+2333,Purple Moby Dick,Hybrid,,
+2334,Arctic Sun,Hybrid,,
+2335,California Limes,Sativa,,
+2336,Silver Train,Sativa,,88.19
+2337,Ogre Berry,Indica,17.0,
+2338,Koloa Sunrise,Hybrid,,
+2339,Ginger Ale,Hybrid,,
+2340,Comfortably Dumb,Hybrid,,
+2341,California Orange Cheese,Hybrid,,
+2342,Grape OX,Indica,,15.18
+2343,Kali 47,Sativa,,
+2344,Ghost OG Moonshine,Indica,,
+2345,Velvet Krush,Hybrid,,
+2346,Blackberry Chem OG,Hybrid,,
+2347,Angelica,Hybrid,,
+2348,The Bling,Hybrid,,
+2349,Mango Puff,Hybrid,,
+2350,American Beauty,Indica,,
+2351,Humboldt Headband,Indica,,
+2352,Majestic 12,Hybrid,,
+2353,Sweet Jesus,Sativa,,
+2354,Kali Haze,Hybrid,,
+2355,Blue Iguana,Hybrid,,
+2356,Sweet Dream,Hybrid,,
+2357,OG Tonic,Hybrid,,
+2358,Puna Buddaz,Indica,,
+2359,White Empress,Indica,,
+2360,Sweet & Sour Cindy,Hybrid,,
+2361,Crazy Miss Hyde,Hybrid,,92.51
+2362,Fruit Loop OG,Hybrid,,
+2363,Caramella,Indica,,
+2364,Colorado Clementines,Indica,,
+2365,Pinot Green,Sativa,,
+2366,Kushashima,Hybrid,,
+2367,Sour Ape,Indica,19.0,
+2368,Caboose,Hybrid,,
+2369,Alpha Express,Sativa,,
+2370,Armagnac,Hybrid,,
+2371,Skunk 47,Indica,,12.28
+2372,Fruity Widow,Hybrid,,
+2373,Cole Train,Hybrid,,
+2374,Kobain Kush,Indica,,
+2375,Kush Cleaner,Hybrid,,
+2376,Chocolate Rain,Hybrid,22.0,
+2377,F 13,Hybrid,,
+2378,Mt. Rainier,Hybrid,,
+2379,Bubba Cheese Auto,Hybrid,,
+2380,Richie Rich,Hybrid,,
+2381,J's Famous Kush,Hybrid,,
+2382,The Fuzz,Hybrid,,
+2383,Mt. Cook,Indica,,
+2384,Pineapple Dog Shit,Hybrid,,
+2385,Bubblegun,Hybrid,,36.25
+2386,Juliet,Hybrid,,94.35
+2387,Tickle Kush,Hybrid,,
+2388,Karmarado OG,Indica,,
+2389,Jesse's Girl,Indica,,
+2390,Daywalker,Hybrid,19.0,
+2391,True Love,Hybrid,20.0,
+2392,Mountain Temple,Sativa,,
+2393,Chardonnay,Hybrid,,
+2394,Hindu Sour,Hybrid,,
+2395,Smarties,Hybrid,,
+2396,Skunky Diesel,Hybrid,,67.47
+2397,Head Trip,Hybrid,,44.97
+2398,Spirit of '76,Hybrid,,66.14
+2399,Nepalese Jam,Hybrid,,
+2400,Berry Blossom,Hybrid,16.0,
+2401,Organic Diesel,Hybrid,,89.9
+2402,Skunk Hero,Hybrid,,
+2403,Dutch Crunch,Hybrid,,
+2404,Sweet Purple,Hybrid,,
+2405,Powderhound,Sativa,,
+2406,VOTS AZ Super Sour OG,Hybrid,,
+2407,Lemonder,Hybrid,17.0,65.82
+2408,Ancient Kush,Indica,,
+2409,Bertberry Cheesecake,Sativa,,97.46
+2410,Royal Chemdawg,Hybrid,,
+2411,Purple Killer,Indica,,21.09
+2412,Afghanica,Hybrid,,13.14
+2413,Mint Lemonade,Hybrid,,
+2414,High Five,Hybrid,,
+2415,Alf,Hybrid,,
+2416,Fire Alien Strawberry,Hybrid,,
+2417,OG's Pearl,Indica,,1.06
+2418,Orient Express,Hybrid,,
+2419,Mazari,Indica,,
+2420,Sour Jilly,Hybrid,,
+2421,Atomic Goat,Hybrid,,
+2422,Disney Blue,Hybrid,,
+2423,Lemon Larry Lavender,Hybrid,,
+2424,Maui Citrus Punch,Sativa,,
+2425,Negra 44,Indica,,
+2426,VCDC,Hybrid,,7.49
+2427,Qleaner,Hybrid,16.0,96.0
+2428,Dieseltonic,Hybrid,,
+2429,G13 Diesel,Hybrid,,
+2430,Citrus Rush,Hybrid,,
+2431,Lost Coast Hash Plant,Hybrid,,
+2432,Cherry Sauce,Hybrid,,
+2433,Golden Gage,Hybrid,,
+2434,Fire Alien Urkle,Hybrid,,
+2435,Sugar Pine,Hybrid,,
+2436,Tangier Chilly,Hybrid,,
+2437,Sour Star Head,Sativa,,
+2438,Gypsy Kush,Hybrid,,
+2439,Bubba Fresh,Hybrid,,
+2440,Sour D*OG,Hybrid,18.0,
+2441,Madzilla,Indica,,
+2442,Monster Profit,Hybrid,,
+2443,Verde Electric,Hybrid,,96.16
+2444,Space Jill,Sativa,,99.38
+2445,Dragon Punch,Hybrid,,
+2446,Gelato Dream,Hybrid,,
+2447,Domino,Indica,,
+2448,Ice Princess,Hybrid,,
+2449,Robert Plant,Sativa,,
+2450,Dream Girl,Hybrid,,
+2451,Clockwork Orange,Hybrid,,
+2452,Total Paralysis,Hybrid,,
+2453,Magnificent Mile,Indica,,
+2454,Cluster Bomb,Hybrid,,
+2455,Sorbet #4,Hybrid,,
+2456,Blue Cinex,Hybrid,,90.99
+2457,La Blanca Gold,Indica,,
+2458,Afghani Krush,Hybrid,,
+2459,White Super Skunk,Hybrid,20.0,
+2460,Higher Power,Sativa,,
+2461,Blue Bastard,Indica,,37.92
+2462,Chemnesia,Hybrid,,
+2463,Big Bomb,Hybrid,,
+2464,Nana’s Fix,Hybrid,,
+2465,Sorbet Dreams,Hybrid,,
+2466,Flowers For Algernon,Hybrid,,
+2467,Harmonia,Indica,,19.38
+2468,Whitaker Blues,Indica,,
+2469,Sweet Pure CBD,Hybrid,,
+2470,Buddha’s Tooth,Sativa,,
+2471,Tangie Sunrise,Hybrid,,
+2472,Serious Kush,Hybrid,,
+2473,Easy Bud,Hybrid,,
+2474,Sch'Lemon Cake,Hybrid,,
+2475,Big Bull,Indica,,
+2476,Bedford Glue,Hybrid,,
+2477,Grandma Anderson’s Cookies,Hybrid,,
+2478,Einstein’s Pipe,Hybrid,,
+2479,OG Purple Fire Thai,Hybrid,,
+2480,Blackberry Bubble,Indica,,9.56
+2481,Orange Poison,Hybrid,,
+2482,KC 36,Indica,,
+2483,Rosaberry,Hybrid,,
+2484,Elphinstone,Sativa,,
+2485,ArcticBlue,Hybrid,,61.34
+2486,Bloo's Kloos,Indica,,
+2487,Somari,Hybrid,,
+2488,Star Tonic,Hybrid,4.0,38.14
+2489,Kaua’i Electric,Sativa,,
+2490,Cello Sweet OG,Hybrid,,
+2491,Strawberry Durban Diesel,Sativa,,
+2492,Deep Cheese,Hybrid,15.0,
+2493,Blueberry Bomb,Hybrid,,
+2494,Larry Cake,Hybrid,,
+2495,Madcow,Sativa,,
+2496,Sweet Pebbles,Hybrid,,
+2497,Poison Haze,Sativa,,
+2498,Brooklyn Mango,Hybrid,,
+2499,Grape Stomper OG,Hybrid,,
+2500,Mendocino Skunk,Hybrid,,
+2501,Harley Storm,Sativa,,
+2502,Frida,Indica,,4.34
+2503,Deep Breath,Hybrid,,
+2504,Damn Sour,Sativa,,
+2505,Crockett’s Dog,Hybrid,20.0,
+2506,Bubba Kush 2.0,Hybrid,,
+2507,Corleone Kush The Don Cut,Hybrid,,
+2508,Sun Ra,Sativa,,
+2509,Blue J,Sativa,,
+2510,White Domina,Indica,,
+2511,Stoopid Fruits,Hybrid,,
+2512,Cashus Clay,Hybrid,,
+2513,Green Avenger,Hybrid,,
+2514,Pan Jam,Hybrid,,
+2515,U2 Kush,Indica,,6.91
+2516,Fall ‘97,Hybrid,,
+2517,Sapphire OG,Hybrid,,
+2518,Willy G’s Lebanese,Hybrid,,
+2519,Monkey Thunder,Hybrid,,
+2520,Cherry Meringue,Hybrid,,
+2521,Patti Cake,Hybrid,,
+2522,Kerala Krush,Sativa,,
+2523,Super Silver Lights,Hybrid,,
+2524,Hawaiian Delight,Indica,,
+2525,Qush,Indica,,
+2526,Stevie Wonder,Hybrid,,90.99
+2527,El Perro,Hybrid,20.0,
+2528,Bettie Page,Hybrid,,64.87
+2529,City of God,Hybrid,,
+2530,Wonder Kid,Indica,,
+2531,Strawberry Gum,Hybrid,23.0,
+2532,Black Label,Hybrid,,
+2533,Testarossa,Hybrid,,
+2534,Maramota #10,Hybrid,,
+2535,GMO Kush,Hybrid,,
+2536,Zerculese,Hybrid,,
+2537,Hollywood Pure Kush,Hybrid,,
+2538,Doctor Doctor,Sativa,,
+2539,M1-56,Hybrid,,
+2540,Blue Wonder,Hybrid,,
+2541,Blueberry Essence,Hybrid,,16.95
+2542,Millennium,Hybrid,,
+2543,Purple Maui,Hybrid,,
+2544,Magellan,Hybrid,,96.16
+2545,Spicy Disco,Hybrid,,
+2546,Candy Store,Hybrid,,
+2547,Mud Bite,Indica,,
+2548,Sweet Cindy,Hybrid,,
+2549,Hannibal Nectar,Indica,,
+2550,Ultra Sonja,Hybrid,,55.96
+2551,Love Boat,Hybrid,,
+2552,Green Mango,Indica,,
+2553,GTO,Hybrid,,
+2554,Bubba Tom Hayes,Hybrid,,
+2555,Jericho Haze,Sativa,,
+2556,Birds Eye,Sativa,,
+2557,Black '84,Indica,18.0,2.05
+2558,Chicle,Hybrid,,
+2559,Green Ninja,Hybrid,,
+2560,Kosher Sorbet,Hybrid,,
+2561,Al's Dream,Hybrid,18.0,
+2562,Devil,Hybrid,,
+2563,LAPD,Hybrid,,
+2564,Sour Chunk,Hybrid,,
+2565,Morning Star,Hybrid,,96.7
+2566,Iceberg,Hybrid,,
+2567,Bandana,Hybrid,,
+2568,Cali Jack,Hybrid,,
+2569,Atmosphere,Hybrid,,
+2570,Lilac Cookies,Hybrid,,
+2571,Jack Widow,Hybrid,,78.29
+2572,Opal OG Kush,Indica,,5.51
+2573,Crystalberry,Indica,,
+2574,Lemon Bananas,Hybrid,,
+2575,Gelato Pebbles,Hybrid,,
+2576,La Reina de Africa,Sativa,,
+2577,Dedoverde Haze,Hybrid,,
+2578,Redd Cross,Hybrid,,
+2579,East Coast Sour Diesel,Sativa,,
+2580,Bright Moments,Hybrid,,
+2581,Cannadential,Hybrid,,88.9
+2582,Purple Cow,Sativa,,
+2583,Kush Rise,Hybrid,,
+2584,Jackpot,Hybrid,,
+2585,Dr. Bubbles,Hybrid,,
+2586,ChemWreck,Hybrid,,68.45
+2587,South Asian Indica,Indica,,
+2588,G13 Widow,Hybrid,,
+2589,Sinai,Sativa,,
+2590,Chemdog #4 x Alien OG Kush,Hybrid,,89.9
+2591,Purple Tears,Hybrid,,
+2592,Dutch Queen,Hybrid,,84.65
+2593,Secret Garden OG,Indica,,
+2594,Sweet Baby Jane,Indica,,
+2595,Goat Head,Hybrid,,
+2596,Silver L.A.,Hybrid,15.0,
+2597,Wreckage,Hybrid,,98.21
+2598,Buddha White Dwarf,Indica,,
+2599,Humdinger OG,Indica,,
+2600,Denver Maple,Indica,,
+2601,Purple Swish,Indica,,
+2602,JT15,Indica,,
+2603,Orange Snow Cone,Hybrid,,
+2604,Caramel Kona Coffee Cookies,Hybrid,,
+2605,Super  Chronic,Indica,,
+2606,Strawberry Satori,Sativa,17.0,86.68
+2607,Mystery Jazz,Hybrid,,
+2608,Double Lemon Pie,Hybrid,,
+2609,Jamba Juice,Hybrid,,
+2610,Loud Lemonade,Hybrid,,
+2611,Alpha Cow,Sativa,,
+2612,Orange Romulan,Indica,,
+2613,Pink Pez,Hybrid,,
+2614,Big White,Indica,,12.47
+2615,Berkeley,Sativa,,99.38
+2616,Vietnamese Bubba,Hybrid,,
+2617,Swiss Gold,Sativa,,
+2618,Oteil’s Egyptian Kush,Hybrid,,
+2619,Old Mother Sativa,Sativa,,
+2620,Wonder Haze,Hybrid,,
+2621,Quin-N-Tonic,Indica,,
+2622,Mendo Afgoo,Indica,,
+2623,Sourlope,Sativa,,95.65
+2624,Lemon Berry Candy OG,Hybrid,,
+2625,Wally OG,Hybrid,,
+2626,Digweed,Indica,,50.89
+2627,Leonidas,Sativa,,
+2628,Savage Citrus Sunshine,Hybrid,,
+2629,Kandahar,Indica,,
+2630,Toxic Punch,Hybrid,,
+2631,Strawberry Akeil,Hybrid,,
+2632,Swiss Sativa,Sativa,,
+2633,Wembley,Indica,,
+2634,Lemon Stomper,Hybrid,,
+2635,Grand Hustle,Hybrid,,89.68
+2636,Michka,Sativa,,
+2637,Rainbow Mints,Indica,,
+2638,Jungle Spice,Hybrid,18.0,
+2639,Zeta Sage,Sativa,,91.44
+2640,Tangerine Trainwreck Haze,Sativa,,
+2641,Romulan Haze,Hybrid,,
+2642,Hawaiian Sunrise,Hybrid,,
+2643,The Big Dirty,Hybrid,,
+2644,Ocean Grown Cookies,Hybrid,,
+2645,Carpet Tape,Hybrid,,
+2646,Melonberry,Hybrid,,
+2647,Legendary Lemon,Sativa,,
+2648,Everlast,Indica,,
+2649,Frozen Tangerines,Hybrid,16.0,
+2650,Rafael,Sativa,,
+2651,Batgirl,Hybrid,,
+2652,Space Needle,Sativa,,
+2653,Amnesia White,Hybrid,,7.49
+2654,Americano,Indica,,
+2655,Joe’s Lemonade,Sativa,,
+2656,Russian Roulette,Indica,,
+2657,Ultra Banana,Indica,,
+2658,Green Door Kush,Hybrid,,
+2659,Coyote Art,Hybrid,,
+2660,The Loops,Indica,,
+2661,Madagascar,Indica,,
+2662,Ladyburn 1974,Hybrid,,
+2663,Club 69,Indica,,
+2664,OG Limekiller,Hybrid,,
+2665,Eastern European,Indica,,
+2666,Haze Mist,Sativa,,
+2667,Purple Pantera,Hybrid,,
+2668,White Knight,Hybrid,,61.34
+2669,NY-47,Hybrid,,
+2670,Maui Berry,Hybrid,,
+2671,Reclining Buddha,Indica,,
+2672,Magic Beans OG,Indica,,
+2673,GI001,Hybrid,,
+2674,Lemon Marmalade,Hybrid,,
+2675,Bloodhound,Hybrid,,87.54
+2676,Star 47,Hybrid,,
+2677,Tigermelon,Indica,,
+2678,Buzz Bomb,Sativa,,
+2679,Newberry,Hybrid,,
+2680,Mambo MG,Hybrid,,
+2681,Earthshaker OG,Hybrid,,
+2682,Diamond Socks,Hybrid,,
+2683,Space Monster,Indica,22.0,
+2684,Joseph OG,Hybrid,,
+2685,Jackalope,Sativa,,
+2686,Honey Rock,Hybrid,,
+2687,Collie Man Kush,Hybrid,,
+2688,Seattle Cough,Sativa,,94.71
+2689,South Indian Indica,Indica,,
+2690,Gasoline Alley,Hybrid,,
+2691,Fat Nelson,Hybrid,,
+2692,Drizella,Sativa,,
+2693,The Brotherhood,Hybrid,,
+2694,Valley Ghash,Hybrid,,
+2695,Colorado Bubba,Indica,,
+2696,Appalachian Power,Sativa,,
+2697,Alien Reunion,Hybrid,,
+2698,High Noon Irish Cream,Hybrid,,
+2699,Huckleberry Hound,Hybrid,,
+2700,Biddy Early,Hybrid,,
+2701,Apollo Haze,Hybrid,,
+2702,NL5 Haze Mist,Sativa,,
+2703,Dutch 47,Hybrid,,
+2704,Four Cups,Hybrid,,
+2705,Peyton Manning,Hybrid,,
+2706,Mission Kush,Hybrid,,
+2707,Old Dirty Biker,Hybrid,,
+2708,Gabriel Sherbet,Hybrid,,
+2709,Sputnik,Sativa,,80.63
+2710,The Forbidden Candy,Hybrid,,
+2711,OG Ringo,Hybrid,,38.67
+2712,Kahuna,Indica,,
+2713,OCA’s Cloud 9,Hybrid,,
+2714,PTSD,Hybrid,,
+2715,Madhatter,Hybrid,,
+2716,C3,Hybrid,,
+2717,Fuzzy Navel,Hybrid,,
+2718,Sumo's OG Kush,Indica,,
+2719,White Tygh Dream,Indica,,
+2720,Chef Kush,Indica,,
+2721,TJ's CBD,Hybrid,,
+2722,Avi,Hybrid,,
+2723,Hawaiian Thunder Fuck,Hybrid,,92.51
+2724,Moondance,Sativa,,
+2725,Durban Princess,Sativa,,
+2726,Leda Uno,Sativa,,
+2727,Cerebro Haze,Sativa,,
+2728,Silver Nina,Hybrid,,
+2729,White Moonshine,Indica,,
+2730,Rockstar Master Kush,Indica,,15.67
+2731,Purple Roze,Hybrid,,
+2732,Super Snow Lotus,Hybrid,,
+2733,Kid N' Kookies,Hybrid,,
+2734,Big Band,Hybrid,,
+2735,PVC OG,Indica,24.0,
+2736,DJ Smoke,Hybrid,,
+2737,D Cure,Hybrid,,
+2738,Stratosphere,Hybrid,,
+2739,Cherry Slyder,Hybrid,,
+2740,Brian Berry Citrus Blend,Hybrid,,
+2741,Eugene Cream,Hybrid,,
+2742,Doox,Sativa,,
+2743,Pele's Fire OG,Hybrid,,
+2744,Purple Aurora,Hybrid,,
+2745,Las Vegas Purple Kush BX,Indica,,
+2746,White Kryptonite,Indica,,
+2747,Huckleberries,Hybrid,,
+2748,Amethyst Bud,Hybrid,,73.7
+2749,Kali China,Indica,,
+2750,Fruit Pie,Hybrid,,
+2751,Phantom Arrow,Indica,,
+2752,Cotton Purple Chem,Hybrid,,
+2753,Fruit Rollupz,Hybrid,,
+2754,Lashkar Gah,Indica,,
+2755,Avalon,Hybrid,,
+2756,Afkansastan,Indica,,
+2757,Northwest Pineapple,Hybrid,,
+2758,Blue Jay Way,Hybrid,,
+2759,Ivan,Hybrid,,
+2760,Travel Joint,Hybrid,,
+2761,Early Lemon Berry,Hybrid,,
+2762,F 13 Throwback,Sativa,,
+2763,Buddha Syrup,Indica,,
+2764,Bubba Doja,Indica,,
+2765,Earthquake,Hybrid,,83.64
+2766,Hades Haze,Indica,,
+2767,California Grapefruit,Indica,,
+2768,DJ Andy Williams,Sativa,,
+2769,ErdPurt,Indica,,
+2770,Jilly Dawg,Hybrid,,
+2771,Blanco Berry Kush,Hybrid,,
+2772,Chocolate Cheesecake,Hybrid,,
+2773,Haoma,Indica,,
+2774,Big Bazooka,Hybrid,,
+2775,LA Jack,Hybrid,,
+2776,Supernatural,Sativa,,70.37
+2777,Amnesia Flash,Hybrid,,
+2778,CloudCap,Hybrid,,
+2779,Red Widow,Hybrid,,
+2780,Vanilluna,Hybrid,,
+2781,White Label Rhino,Hybrid,,
+2782,Pine Queen Dream,Hybrid,,
+2783,White Dawg Fire OG,Hybrid,,
+2784,Purple Sage ,Hybrid,,
+2785,Champagne Diesel,Hybrid,,
+2786,Kelly Hill Gold,Indica,,
+2787,Chem Beyond Diesel CBD,Hybrid,,
+2788,Rawtton,Hybrid,,
+2789,Monolith,Indica,,
+2790,SleeSkunk,Sativa,,
+2791,North Indian,Indica,,
+2792,Blackberry Snow Cone,Indica,,
+2793,Dirt Nap,Hybrid,,
+2794,CBD Rich Blessing,Sativa,,
+2795,Godzilla Blood,Hybrid,,
+2796,Flavour Pack,Hybrid,,
+2797,Gold Star,Hybrid,,
+2798,Blush,Hybrid,,
+2799,Wipeout Express,Hybrid,,
+2800,Sorcerer’s Apprentice,Hybrid,,
+2801,Golden Calyx,Sativa,,
+2802,Brian Berry Honey Lemon,Hybrid,,
+2803,Doctor Jamaica,Hybrid,,
+2804,Manitoba Poison,Hybrid,,
+2805,Midnight Mass,Hybrid,,
+2806,Lennon,Sativa,,
+2807,Cherry Mender,Indica,,
+2808,Oldtimer’s Haze,Sativa,,
+2809,Seattle Summer,Hybrid,,
+2810,Bog Blue Kush,Indica,,
+2811,Pokie,Indica,,
+2812,Lando's Stash,Hybrid,,
+2813,Hoodwreck,Sativa,,
+2814,Rip City Purps,Indica,,
+2815,Bay Lotus,Hybrid,,
+2816,Ruby Rose,Hybrid,,
+2817,Pineapple Hash Plant,Hybrid,,
+2818,Tangerine G13,Hybrid,,
+2819,Diesel Duff,Hybrid,,
+2820,Black Rose,Hybrid,,
+2821,Eagle Bill,Hybrid,,
+2822,Inferno Haze,Hybrid,,
+2823,Gobbilygoo,Indica,,
+2824,Oregon Bus Pass,Hybrid,,
+2825,King Thunder Fuck,Hybrid,,
+2826,Brian Berry Black Currant,Hybrid,,
+2827,Sour Lemons,Hybrid,,
+2828,Headband Cookies Bx1,Hybrid,,
+2829,Athabasca,Indica,,
+2830,Khyber Kush,Hybrid,,
+2831,Dolla Sign OG Kush,Indica,,
+2832,Fruitylicious,Indica,,
+2833,White Slipper,Hybrid,,95.26
+2834,Ethos Hash Plant Bx1,Hybrid,,
+2835,Mag 91,Hybrid,,
+2836,Tangerine Man,Sativa,,
+2837,Giesel Cookies,Hybrid,,
+2838,Motown Lockdown,Hybrid,,
+2839,Jabba's Stash,Hybrid,,
+2840,Brute Fruit,Hybrid,,
+2841,Mendo Supremo,Hybrid,,
+2842,Hammershark,Hybrid,,
+2843,Riley Kush,Hybrid,,
+2844,Prayer Tower,Hybrid,,
+2845,Gold King's Thai,Sativa,,
+2846,Black Cream Auto,Hybrid,,
+2847,Hindu Cream,Indica,,
+2848,Perfect Purple,Hybrid,,
+2849,Dick Cheese,Hybrid,,
+2850,Hobbit,Hybrid,,
+2851,First Light,Hybrid,,
+2852,Pirate Radio,Hybrid,,
+2853,Chem Jong Ill,Hybrid,,
+2854,Original Mandarin Cookies,Hybrid,,
+2855,Neptune Kush,Indica,,43.54
+2856,Dagwood,Hybrid,,
+2857,Super Glu,Hybrid,,
+2858,Humboldt Sour Diesel,Hybrid,,
+2859,Canna-Wreck,Sativa,,
+2860,California Gold,Indica,,
+2861,Capers,Indica,,
+2862,Lazy Train,Hybrid,,
+2863,Keystone Kush,Hybrid,,
+2864,Circus Peanuts,Hybrid,,
+2865,Lost Creek,Hybrid,,
+2866,Smelliot,Hybrid,,
+2867,Jim OG,Hybrid,,
+2868,Gaswerx,Hybrid,,
+2869,Plumberry,Hybrid,,
+2870,Blob OG,Hybrid,,
+2871,Cirrus,Sativa,,
+2872,Hawai’i ‘78,Sativa,,
+2873,Bingo Pajamas,Hybrid,,
+2874,IFC OG,Indica,,
+2875,Transformer,Hybrid,,
+2876,White Choco Haze,Sativa,,
+2877,Midnight Express,Hybrid,,
+2878,Chem Jack,Hybrid,,
+2879,Candy Drop,Hybrid,,
+2880,Electric Black Mamba,Indica,,
+2881,Spoetnik #1,Indica,,
+2882,Paris XXX,Indica,,
+2883,Double Gum,Indica,,
+2884,Thai Girl,Hybrid,,86.68
+2885,Ginger Punch,Hybrid,,
+2886,Blue Kiss,Hybrid,,
+2887,Wish Mountain,Indica,,
+2888,Purple Tonic,Indica,,
+2889,Carmel Cough,Hybrid,,
+2890,Queen's Panties,Hybrid,,
+2891,Calyx OG,Hybrid,,
+2892,Hustler Kush,Hybrid,,
+2893,Romping Goddess,Hybrid,,
+2894,Lethal Purple,Hybrid,,
+2895,Mossimo OG,Indica,,
+2896,Nexus OG,Indica,,
+2897,Blue Trane,Hybrid,,
+2898,Huckleberry DesStar,Hybrid,,
+2899,Willie Berrie,Hybrid,,
+2900,Willie Cheesie,Hybrid,,
+2901,Willie’s Ghost,Hybrid,,
+2902,F-Cut OG,Hybrid,,
+2903,Fauxsido,Hybrid,,
+2904,Face Off Bx2,Hybrid,,
+2905,Elevated OG,Hybrid,,
+2906,Grape Smuggler,Hybrid,,
+2907,Granddaddy Wonder,Hybrid,,
+2908,Lifestar,Hybrid,,
+2909,Dutch Dynasty,Hybrid,,
+2910,Don's Ghost,Hybrid,,
+2911,Stashsquatch,Hybrid,,
+2912,Raspberry Tart,Hybrid,,
+2913,Power Purps,Hybrid,,
+2914,Egyptian Royalty #1,Indica,,
+2915,Ghost Tange Haze,Hybrid,,
+2916,Moontang,Hybrid,,
+2917,Neil Haze,Hybrid,,
+2918,Starman,Hybrid,,
+2919,Lambs in Space,Hybrid,,
+2920,Humboldt Hawaiian,Hybrid,,
+2921,Blessings OG,Hybrid,,
+2922,Dog Face,Hybrid,,
+2923,Panzer Kush,Hybrid,,
+2924,Marionberry Pie,Hybrid,,
+2925,Cali Orange Bud,Hybrid,,
+2926,Bronze Whaler,Indica,,
+2927,Pineapple SAGE,Hybrid,,
+2928,Webster,Sativa,,
+2929,X18 Pure Pakistani,Hybrid,,
+2930,Florida Gold,Hybrid,,
+2931,Siddhartha’s Dream,Hybrid,,
+2932,Pestilence,Indica,,
+2933,Kreamy Karamel,Indica,,
+2934,Wolfberry,Hybrid,,
+2935,Slice of Heaven,Hybrid,,
+2936,Jack’s Dragon Girl #7,Hybrid,,
+2937,Divina Obscura,Hybrid,,
+2938,Mozambique Poison,Hybrid,,
+2939,Space Poison,Hybrid,,
+2940,White Label Jack Herer,Hybrid,,
+2941,ZeitGeist,Hybrid,,
+2942,Strange Brew,Hybrid,,
+2943,Dinamex,Hybrid,,
+2944,Old Lyme Connecticut OG,Hybrid,,
+2945,Guido Kush,Indica,,
+2946,Waldo,Hybrid,,
+2947,Silver Calyx,Hybrid,,
+2948,Short and Sweet,Hybrid,,
+2949,Nuggetry OG,Indica,,
+2950,Llanera,Sativa,,
+2951,SAGE Walker,Hybrid,,
+2952,Bog Sour Grape,Indica,,
+2953,Bogglegum,Hybrid,,
+2954,Sweet Dreams,Indica,,
+2955,Sapphire Cherries,Hybrid,,
+2956,Lime Purple Mist,Indica,,
+2957,Chocolate Drop,Hybrid,,
+2958,Pie 95,Hybrid,,
+2959,Tristar Pebbles,Hybrid,,
+2960,Citral Flow Bx1,Hybrid,,
+2961,Morockin’ Kush,Hybrid,,
+2962,OGDLUX,Hybrid,,
+2963,Nevada Privada,Hybrid,,
+2964,God's Grove,Hybrid,,
+2965,Cheshire Kush,Hybrid,,
+2966,Bandersnatch,Hybrid,,
+2967,Cheddarhead,Hybrid,,
+2968,Cheddarwurst,Hybrid,,
+2969,Honduras,Sativa,,
+2970,Broke Diesel,Hybrid,,
+2971,Apollo 13 Haze,Hybrid,,
+2972,Cindy Haze,Hybrid,,
+2973,Two Beards,Hybrid,,
+2974,Purple Prevention,Hybrid,,
+2975,Journeymen,Hybrid,,
+2976,Sugartown Express,Hybrid,,
+2977,Charity OG,Hybrid,,
+2978,Starlet Kush,Hybrid,,
+2979,Banana Puff,Hybrid,,
+2980,Bianca Fire,Hybrid,,
+2981,Miss Columbian,Hybrid,,
+2982,Daybreaker,Hybrid,17.0,
+2983,Shadow Dancer,Hybrid,,
+2984,West Coast Willie,Hybrid,,
+2985,Harlem,Hybrid,,
+2986,Royal Flush,Hybrid,,
+2987,Harlequin Joe,Hybrid,,
+2988,White Funk,Hybrid,,
+2989,Cookie Pebbles F3,Hybrid,,
+2990,Wyld Stallion,Hybrid,,
+2991,Banana Fruit Bound,Hybrid,,
+2992,Lemon Fruit Bound,Hybrid,,
+2993,Ghost Pebbles 95,Hybrid,,
+2994,Yabba Dabba Diesel,Hybrid,,
+2995,The Wills,Hybrid,,
+2996,Hawaiian Trinity,Hybrid,,
+2997,hai Fantasy,Hybrid,,
+2998,Lost Coast Ghost,Hybrid,,
+2999,ʻAlenuihāhā,Hybrid,,
+3000,Golden Soda,Hybrid,,
+3001,Pineapple Calyx,Hybrid,,
+3002,Sun Maiden,Hybrid,,
+3003,Fruit Ambrosia,Hybrid,,
+3004,Lemon Crumb,Hybrid,,
+3005,Orange Fruit Bound,Hybrid,,
+3006,Pebble Pie,Hybrid,,
+3007,Pie Til I Die,Hybrid,,
+3008,Pie of the Tiger,Hybrid,,
+3009,Strawberry Fruit Bound,Hybrid,,
+3010,Pie Tree,Hybrid,,
+3011,Rainbow Jimmies,Hybrid,,
+3012,Mandarine 47,Hybrid,,
+3013,Purps OG,Hybrid,17.0,
+3014,Purple Domina,Hybrid,,
+3015,Strawberry Tree,Hybrid,,
+3016,Haze Queen,Hybrid,,
+3017,Cherry Kiss,Hybrid,,
+3018,Copacabana,Hybrid,,
+3019,Fast Caramelic,Hybrid,,
+3020,Anesia Scout Cookies,Hybrid,,
+3021,La Niña,Sativa,,
+3022,Savant's Grail,Hybrid,,
+3023,Snow Mountain,Indica,,
+3024,Gorkle,Sativa,,
+3025,Tachllta Till,Hybrid,,
+3026,Kahavvai Mode,Hybrid,,
+3027,Kush Ben Yamini,Hybrid,,
+3028,Grateful Grape,Hybrid,,
+3029,Gatekeeper OG,Hybrid,,
+3030,Tommy's Home Grown,Hybrid,,
+3031,Grape Krush,Indica,,21.05
+3032,Cookie Dawg,Hybrid,,
+3033,Super Cat Piss,Sativa,,
+3034,Taliban Poison,Indica,,
+3035,Waipi'o Hapa,Sativa,,
+3036,Gorilla Cake,Hybrid,,
+3037,Animal Face,Hybrid,,
+3038,Sweet Lafayette,Indica,,8.61
+3039,White Walrus,Hybrid,,
+3040,Jenni,Sativa,,
+3041,The CBG Blend,Hybrid,,
+3042,Dosi-Cake,Hybrid,,
+3043,Orange Daiquiri,Hybrid,,
+3044,Lemon Lava,Hybrid,,
+3045,Tropic Truffle,Hybrid,,
+3046,Falcon 9,Hybrid,,
+3047,Jet-A,Hybrid,,
+3048,Crippy Killer,Hybrid,,
+3049,X-tra Chz,Hybrid,,
+3050,El-Na,Hybrid,,
+3051,Elderberry Kush,Hybrid,,8.44
+3052,Purple Linda,Indica,,
+3053,Gelonade,Hybrid,,
+3054,Apple Fritter,Hybrid,,
+3055,Grapefruit Sour Dream,Hybrid,,
+3056,Ace High,Hybrid,,
+3057,Divorce Cake,Hybrid,,
+3058,Pink Runtz,Hybrid,,
+3059,Medical 49,Indica,,
+3060,Pulsar,Hybrid,,
+3061,Morpheus,Indica,,
+3062,Mi-Lano,Hybrid,,
+3063,Magic Bud,Hybrid,,
+3064,Misty Morning,Hybrid,,
+3065,Tahoe Hydro Champagne,Hybrid,,
+3066,Jahwaiian,Sativa,,
+3067,Sweet Harlem Diesel,Hybrid,,
+3068,Purple Tide,Hybrid,,
+3069,River Song,Hybrid,,
+3070,Bona Dea,Indica,,
+3071,Des*Tar Bx,Hybrid,,
+3072,Grape Krush Throwback,Hybrid,,
+3073,Golden Healing,Hybrid,,
+3074,Leia Kush,Hybrid,,
+3075,Renegade Rx CBD,Hybrid,,
+3076,Smooth Operator,Hybrid,,
+3077,Dirty Widow,Hybrid,,
+3078,Egyptian Musk,Hybrid,,
+3079,Mountain Girl x Grape Ape,Hybrid,,
+3080,Goldwing,Sativa,,
+3081,Capleton,Hybrid,,
+3082,Koloa Sunrise,Sativa,,
+3083,Crockett’s Sour Tangie,Hybrid,,
+3084,Superb OG,Hybrid,,
+3085,Fast and Vast,Hybrid,,
+3086,Extreme Impact Auto,Indica,,
+3087,Medikit,Sativa,,
+3088,G13 Skunk,Hybrid,,
+3089,Lemon Oasis,Hybrid,,
+3090,Buddha Vesta,Hybrid,,
+3091,Cheddarwurst 2,Hybrid,,
+3092,Snowdawg 2,Hybrid,,
+3093,Alphadawg,Hybrid,,
+3094,Bear Creek Kush,Hybrid,,
+3095,Sour StrawburieD,Hybrid,,
+3096,Gran Champagne,Hybrid,,
+3097,Omega Dawg,Hybrid,,69.8
+3098,Legalized OG,Hybrid,,19.38
+3099,Khola,Hybrid,,
+3100,X-Files,Hybrid,,
+3101,WMD,Indica,,
+3102,Biscotti,Hybrid,,
+3103,OG Cookies,Hybrid,,
+3104,Cookie Glue,Hybrid,,
+3105,Papaya Punch,Hybrid,,
+3106,Easy Peezy,Hybrid,,
+3107,Fred Flipn’ Stoned,Indica,,
+3108,Straight A's Haze,Sativa,,
+3109,Chocolate Sap,Hybrid,,
+3110,Weebe’s World,Indica,,
+3111,Sweet Hawaiian Tangie Banana,Hybrid,,
+3112,Pineapple Zest,Hybrid,,
+3113,Bergamot,Hybrid,,
+3114,Cherry Punch,Hybrid,,
+3115,Blue Gelato,Hybrid,,
+3116,WSU,Indica,,
+3117,Ganesh Berry,Hybrid,,
+3118,Deadwood,Indica,,
+3119,F'n louZER,Indica,,
+3120,Rigger Kush,Indica,,
+3121,Afgooey,Indica,16.0,13.07
+3122,Dreadlock,Hybrid,,
+3123,Berry Noir,Indica,,
+3124,South Central LA,Indica,,
+3125,Twista,Sativa,,
+3126,Blueberry Waltz,Indica,,
+3127,Sweet Nina,Hybrid,,
+3128,Beckwourth Bud,Indica,,
+3129,Haole,Hybrid,,47.24
+3130,Bogart,Hybrid,,
+3131,Billy Kimber,Hybrid,,
+3132,Pink Candy Kush,Hybrid,,
+3133,Sherbacio,Hybrid,,
+3134,Skins Skunk,Hybrid,,
+3135,Dorit,Indica,,
+3136,Blue Persuasion,Hybrid,,
+3137,Tembo Kush,Hybrid,,
+3138,Dreamer’s Glass,Hybrid,,
+3139,Nice Cherry,Indica,,
+3140,Throwback Kush,Indica,,
+3141,EdiPure Dried Pineapples,Edible,,
+3142,Xanadu,Sativa,,
+3143,Proper BHO Shatter,Hybrid,,
+3144,Proper BHO Shatter,Indica,,
+3145,Proper BHO Shatter,Sativa,,
+3146,Golden XTRX CO2 Dabbables,Hybrid,,
+3147,Golden XTRX CO2 Dabbables,Sativa,,
+3148,Golden XTRX CO2 Dabbables,Indica,,
+3149,EdiPure Peanut Butter Bites,Edible,,
+3150,Jerusalem Express,Hybrid,,
+3151,Grape Puff,Hybrid,,
+3152,Bright Puff,Hybrid,,
+3153,Chicago Typewriter,Hybrid,,
+3154,Flight 813,Hybrid,,
+3155,Classic Twist,Hybrid,,
+3156,Loyalty,Hybrid,,
+3157,Ozma,Hybrid,,
+3158,Sergerbloom Haze,Hybrid,,
+3159,Diabla,Hybrid,,
+3160,Sunset Fire,Hybrid,,
+3161,Whipped Cherries,Hybrid,,
+3162,G-Cut,Hybrid,,
+3163,Heavy Bud,Indica,,
+3164,Legends Gold,Indica,,
+3165,Matsu,Indica,,
+3166,Redding OG,Hybrid,,
+3167,Krakatoa,Hybrid,,
+3168,The Sheriff,Hybrid,,
+3169,Sunlight Skunk,Hybrid,,
+3170,Silverfalls Kush,Hybrid,,
+3171,Island Poison,Hybrid,,
+3172,White Master,Hybrid,,
+3173,Sorbet Stash,Hybrid,,
+3174,Good Day,Hybrid,,
+3175,Lemon Stash CBD,Hybrid,,
+3176,Lazy Susan CBD,Hybrid,,
+3177,Tarmonster,Hybrid,,
+3178,Sour Boggle,Hybrid,,
+3179,Trewbacca,Hybrid,,
+3180,Placenta,Indica,,
+3181,Purple Moss,Hybrid,,
+3182,Purple Berry Skunk,Hybrid,,
+3183,Joe's Dank,Hybrid,,
+3184,Miss Fortune Cookie,Hybrid,,
+3185,Shit,Hybrid,,
+3186,Critical Soma,Hybrid,,
+3187,Guava Dub Star,Hybrid,,
+3188,Nchoosha Y,Hybrid,,
+3189,Shaman’s Dream,Hybrid,,
+3190,Neroli 91,Hybrid,,
+3191,Critters Cookies,Hybrid,,
+3192,Solo’s Stash,Hybrid,,
+3193,Fully Loaded,Hybrid,,
+3194,Somaui,Hybrid,,
+3195,Sour Chocolate,Sativa,,
+3196,The Blintz,Hybrid,,
+3197,Silver Cindy,Hybrid,,
+3198,Hoarfrost,Hybrid,,
+3199,Clementine’s Terpentine,Hybrid,,
+3200,Thai Fantasy,Hybrid,,
+3201,Murkle,Indica,,
+3202,Freeze Cheese '89,Hybrid,,
+3203,Cindy Le Pew,Hybrid,,
+3204,Stretch,Hybrid,,
+3205,Sidetracked,Hybrid,,
+3206,Peachy Mack,Hybrid,,
+3207,Doox,Hybrid,,
+3208,Focaccia,Indica,,
+3209,Jack of Spades,Hybrid,,
+3210,Colorado Chem RBX3,Hybrid,,
+3211,Soraya,Hybrid,,
+3212,Fire Alien Master,Hybrid,,
+3213,Moby Dick 2.0,Hybrid,,
+3214,Early Queen,Hybrid,,
+3215,Dreamtime,Hybrid,,
+3216,Mau-Mau,Hybrid,,
+3217,White Ryder,Hybrid,,
+3218,Gupta Haze,Hybrid,,
+3219,True X,Indica,,
+3220,Fluidic Space,Hybrid,,
+3221,Alice,Hybrid,,
+3222,Lovelace,Hybrid,,
+3223,Jigsaw,Hybrid,,
+3224,Queen of Hearts,Hybrid,,
+3225,Face Off OG Bx1,Hybrid,,
+3226,Turbo Mind Warp,Hybrid,,
+3227,Lady Liberty,Hybrid,,
+3228,Kaleidos Dope,Hybrid,,
+3229,Concord Grape Blockhead,Hybrid,,
+3230,Chairman Chem Sou,Hybrid,,
+3231,Sugar Calyx,Hybrid,,
+3232,Rebel Tangie Kandy,Sativa,,
+3233,Gammaberry,Hybrid,,
+3234,Colorado Diesel,Hybrid,,
+3235,Señor Jack,Hybrid,18.0,
+3236,Irie OG,Hybrid,,
+3237,Walrus Kush,Hybrid,,
+3238,Blackberry Hashplant,Indica,,65.82
+3239,Dream Police,Hybrid,,
+3240,Rene Mist,Hybrid,,
+3241,Mossad,Indica,,
